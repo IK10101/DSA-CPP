@@ -78,5 +78,10 @@ This repository contains my Data Structures and Algorithms practice in C++.
 ## Linked List
 |  |
 | ------- |
+| [0086-partition-list](https://github.com/IK10101/DSA-CPP/tree/master/0086-partition-list) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/IK10101/DSA-CPP/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
+## Two Pointers
+|  |
+| ------- |
+| [0086-partition-list](https://github.com/IK10101/DSA-CPP/tree/master/0086-partition-list) |
 <!---LeetCode Topics End-->
