@@ -36,6 +36,7 @@ This repository contains my Data Structures and Algorithms practice in C++.
 | [0033-search-in-rotated-sorted-array](https://github.com/IK10101/DSA-CPP/tree/master/0033-search-in-rotated-sorted-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/IK10101/DSA-CPP/tree/master/0215-kth-largest-element-in-an-array) |
 | [0238-product-of-array-except-self](https://github.com/IK10101/DSA-CPP/tree/master/0238-product-of-array-except-self) |
+| [0877-stone-game](https://github.com/IK10101/DSA-CPP/tree/master/0877-stone-game) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -91,4 +92,24 @@ This repository contains my Data Structures and Algorithms practice in C++.
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/IK10101/DSA-CPP/tree/master/0238-product-of-array-except-self) |
+## Math
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/IK10101/DSA-CPP/tree/master/0877-stone-game) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/IK10101/DSA-CPP/tree/master/0877-stone-game) |
+## Minimax
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/IK10101/DSA-CPP/tree/master/0877-stone-game) |
+## Game Theory
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/IK10101/DSA-CPP/tree/master/0877-stone-game) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/IK10101/DSA-CPP/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
