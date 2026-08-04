@@ -34,6 +34,7 @@ This repository contains my Data Structures and Algorithms practice in C++.
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/IK10101/DSA-CPP/tree/master/0033-search-in-rotated-sorted-array) |
+| [0200-number-of-islands](https://github.com/IK10101/DSA-CPP/tree/master/0200-number-of-islands) |
 | [0215-kth-largest-element-in-an-array](https://github.com/IK10101/DSA-CPP/tree/master/0215-kth-largest-element-in-an-array) |
 | [0238-product-of-array-except-self](https://github.com/IK10101/DSA-CPP/tree/master/0238-product-of-array-except-self) |
 | [0877-stone-game](https://github.com/IK10101/DSA-CPP/tree/master/0877-stone-game) |
@@ -115,17 +116,24 @@ This repository contains my Data Structures and Algorithms practice in C++.
 ## Depth-First Search
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/IK10101/DSA-CPP/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/IK10101/DSA-CPP/tree/master/0547-number-of-provinces) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/IK10101/DSA-CPP/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/IK10101/DSA-CPP/tree/master/0547-number-of-provinces) |
 ## Union-Find
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/IK10101/DSA-CPP/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/IK10101/DSA-CPP/tree/master/0547-number-of-provinces) |
 ## Graph Theory
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/IK10101/DSA-CPP/tree/master/0547-number-of-provinces) |
+## Matrix
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/IK10101/DSA-CPP/tree/master/0200-number-of-islands) |
 <!---LeetCode Topics End-->
