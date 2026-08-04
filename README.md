@@ -112,4 +112,20 @@ This repository contains my Data Structures and Algorithms practice in C++.
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/IK10101/DSA-CPP/tree/master/0877-stone-game) |
+## Depth-First Search
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/IK10101/DSA-CPP/tree/master/0547-number-of-provinces) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/IK10101/DSA-CPP/tree/master/0547-number-of-provinces) |
+## Union-Find
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/IK10101/DSA-CPP/tree/master/0547-number-of-provinces) |
+## Graph Theory
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/IK10101/DSA-CPP/tree/master/0547-number-of-provinces) |
 <!---LeetCode Topics End-->
