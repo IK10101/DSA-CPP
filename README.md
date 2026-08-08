@@ -35,6 +35,7 @@ This repository contains my Data Structures and Algorithms practice in C++.
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/IK10101/DSA-CPP/tree/master/0033-search-in-rotated-sorted-array) |
 | [0045-jump-game-ii](https://github.com/IK10101/DSA-CPP/tree/master/0045-jump-game-ii) |
+| [0130-surrounded-regions](https://github.com/IK10101/DSA-CPP/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/IK10101/DSA-CPP/tree/master/0200-number-of-islands) |
 | [0215-kth-largest-element-in-an-array](https://github.com/IK10101/DSA-CPP/tree/master/0215-kth-largest-element-in-an-array) |
 | [0238-product-of-array-except-self](https://github.com/IK10101/DSA-CPP/tree/master/0238-product-of-array-except-self) |
@@ -123,6 +124,7 @@ This repository contains my Data Structures and Algorithms practice in C++.
 ## Depth-First Search
 |  |
 | ------- |
+| [0130-surrounded-regions](https://github.com/IK10101/DSA-CPP/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/IK10101/DSA-CPP/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/IK10101/DSA-CPP/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/IK10101/DSA-CPP/tree/master/0733-flood-fill) |
@@ -130,6 +132,7 @@ This repository contains my Data Structures and Algorithms practice in C++.
 ## Breadth-First Search
 |  |
 | ------- |
+| [0130-surrounded-regions](https://github.com/IK10101/DSA-CPP/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/IK10101/DSA-CPP/tree/master/0200-number-of-islands) |
 | [0542-01-matrix](https://github.com/IK10101/DSA-CPP/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/IK10101/DSA-CPP/tree/master/0547-number-of-provinces) |
@@ -139,6 +142,7 @@ This repository contains my Data Structures and Algorithms practice in C++.
 ## Union-Find
 |  |
 | ------- |
+| [0130-surrounded-regions](https://github.com/IK10101/DSA-CPP/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/IK10101/DSA-CPP/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/IK10101/DSA-CPP/tree/master/0547-number-of-provinces) |
 | [1020-number-of-enclaves](https://github.com/IK10101/DSA-CPP/tree/master/1020-number-of-enclaves) |
@@ -149,6 +153,7 @@ This repository contains my Data Structures and Algorithms practice in C++.
 ## Matrix
 |  |
 | ------- |
+| [0130-surrounded-regions](https://github.com/IK10101/DSA-CPP/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/IK10101/DSA-CPP/tree/master/0200-number-of-islands) |
 | [0542-01-matrix](https://github.com/IK10101/DSA-CPP/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/IK10101/DSA-CPP/tree/master/0733-flood-fill) |
