@@ -139,6 +139,7 @@ This repository contains my Data Structures and Algorithms practice in C++.
 ## Breadth-First Search
 |  |
 | ------- |
+| [0126-word-ladder-ii](https://github.com/IK10101/DSA-CPP/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/IK10101/DSA-CPP/tree/master/0127-word-ladder) |
 | [0130-surrounded-regions](https://github.com/IK10101/DSA-CPP/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/IK10101/DSA-CPP/tree/master/0200-number-of-islands) |
@@ -184,6 +185,7 @@ This repository contains my Data Structures and Algorithms practice in C++.
 |  |
 | ------- |
 | [0041-first-missing-positive](https://github.com/IK10101/DSA-CPP/tree/master/0041-first-missing-positive) |
+| [0126-word-ladder-ii](https://github.com/IK10101/DSA-CPP/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/IK10101/DSA-CPP/tree/master/0127-word-ladder) |
 ## Graph Coloring
 |  |
@@ -214,9 +216,15 @@ This repository contains my Data Structures and Algorithms practice in C++.
 ## String
 |  |
 | ------- |
+| [0126-word-ladder-ii](https://github.com/IK10101/DSA-CPP/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/IK10101/DSA-CPP/tree/master/0127-word-ladder) |
 ## Bidirectional Search
 |  |
 | ------- |
+| [0126-word-ladder-ii](https://github.com/IK10101/DSA-CPP/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/IK10101/DSA-CPP/tree/master/0127-word-ladder) |
+## Backtracking
+|  |
+| ------- |
+| [0126-word-ladder-ii](https://github.com/IK10101/DSA-CPP/tree/master/0126-word-ladder-ii) |
 <!---LeetCode Topics End-->
