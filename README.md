@@ -60,6 +60,7 @@ This repository contains my Data Structures and Algorithms practice in C++.
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/IK10101/DSA-CPP/tree/master/0215-kth-largest-element-in-an-array) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/IK10101/DSA-CPP/tree/master/0703-kth-largest-element-in-a-stream) |
+| [0743-network-delay-time](https://github.com/IK10101/DSA-CPP/tree/master/0743-network-delay-time) |
 ## Quickselect
 |  |
 | ------- |
@@ -133,6 +134,7 @@ This repository contains my Data Structures and Algorithms practice in C++.
 | [0210-course-schedule-ii](https://github.com/IK10101/DSA-CPP/tree/master/0210-course-schedule-ii) |
 | [0547-number-of-provinces](https://github.com/IK10101/DSA-CPP/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/IK10101/DSA-CPP/tree/master/0733-flood-fill) |
+| [0743-network-delay-time](https://github.com/IK10101/DSA-CPP/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/IK10101/DSA-CPP/tree/master/0785-is-graph-bipartite) |
 | [0802-find-eventual-safe-states](https://github.com/IK10101/DSA-CPP/tree/master/0802-find-eventual-safe-states) |
 | [1020-number-of-enclaves](https://github.com/IK10101/DSA-CPP/tree/master/1020-number-of-enclaves) |
@@ -148,6 +150,7 @@ This repository contains my Data Structures and Algorithms practice in C++.
 | [0542-01-matrix](https://github.com/IK10101/DSA-CPP/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/IK10101/DSA-CPP/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/IK10101/DSA-CPP/tree/master/0733-flood-fill) |
+| [0743-network-delay-time](https://github.com/IK10101/DSA-CPP/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/IK10101/DSA-CPP/tree/master/0785-is-graph-bipartite) |
 | [0802-find-eventual-safe-states](https://github.com/IK10101/DSA-CPP/tree/master/0802-find-eventual-safe-states) |
 | [0994-rotting-oranges](https://github.com/IK10101/DSA-CPP/tree/master/0994-rotting-oranges) |
@@ -166,6 +169,7 @@ This repository contains my Data Structures and Algorithms practice in C++.
 | [0207-course-schedule](https://github.com/IK10101/DSA-CPP/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/IK10101/DSA-CPP/tree/master/0210-course-schedule-ii) |
 | [0547-number-of-provinces](https://github.com/IK10101/DSA-CPP/tree/master/0547-number-of-provinces) |
+| [0743-network-delay-time](https://github.com/IK10101/DSA-CPP/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/IK10101/DSA-CPP/tree/master/0785-is-graph-bipartite) |
 | [0802-find-eventual-safe-states](https://github.com/IK10101/DSA-CPP/tree/master/0802-find-eventual-safe-states) |
 ## Matrix
@@ -227,4 +231,12 @@ This repository contains my Data Structures and Algorithms practice in C++.
 |  |
 | ------- |
 | [0126-word-ladder-ii](https://github.com/IK10101/DSA-CPP/tree/master/0126-word-ladder-ii) |
+## Shortest Path
+|  |
+| ------- |
+| [0743-network-delay-time](https://github.com/IK10101/DSA-CPP/tree/master/0743-network-delay-time) |
+## Dijkstra's Algorithm
+|  |
+| ------- |
+| [0743-network-delay-time](https://github.com/IK10101/DSA-CPP/tree/master/0743-network-delay-time) |
 <!---LeetCode Topics End-->
