@@ -47,6 +47,7 @@ This repository contains my Data Structures and Algorithms practice in C++.
 | [0994-rotting-oranges](https://github.com/IK10101/DSA-CPP/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/IK10101/DSA-CPP/tree/master/1020-number-of-enclaves) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/IK10101/DSA-CPP/tree/master/1091-shortest-path-in-binary-matrix) |
+| [1631-path-with-minimum-effort](https://github.com/IK10101/DSA-CPP/tree/master/1631-path-with-minimum-effort) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -62,6 +63,7 @@ This repository contains my Data Structures and Algorithms practice in C++.
 | [0215-kth-largest-element-in-an-array](https://github.com/IK10101/DSA-CPP/tree/master/0215-kth-largest-element-in-an-array) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/IK10101/DSA-CPP/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0743-network-delay-time](https://github.com/IK10101/DSA-CPP/tree/master/0743-network-delay-time) |
+| [1631-path-with-minimum-effort](https://github.com/IK10101/DSA-CPP/tree/master/1631-path-with-minimum-effort) |
 ## Quickselect
 |  |
 | ------- |
@@ -81,6 +83,7 @@ This repository contains my Data Structures and Algorithms practice in C++.
 | [0033-search-in-rotated-sorted-array](https://github.com/IK10101/DSA-CPP/tree/master/0033-search-in-rotated-sorted-array) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/IK10101/DSA-CPP/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/IK10101/DSA-CPP/tree/master/0703-kth-largest-element-in-a-stream) |
+| [1631-path-with-minimum-effort](https://github.com/IK10101/DSA-CPP/tree/master/1631-path-with-minimum-effort) |
 ## Binary Tree
 |  |
 | ------- |
@@ -139,6 +142,7 @@ This repository contains my Data Structures and Algorithms practice in C++.
 | [0785-is-graph-bipartite](https://github.com/IK10101/DSA-CPP/tree/master/0785-is-graph-bipartite) |
 | [0802-find-eventual-safe-states](https://github.com/IK10101/DSA-CPP/tree/master/0802-find-eventual-safe-states) |
 | [1020-number-of-enclaves](https://github.com/IK10101/DSA-CPP/tree/master/1020-number-of-enclaves) |
+| [1631-path-with-minimum-effort](https://github.com/IK10101/DSA-CPP/tree/master/1631-path-with-minimum-effort) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -157,6 +161,7 @@ This repository contains my Data Structures and Algorithms practice in C++.
 | [0994-rotting-oranges](https://github.com/IK10101/DSA-CPP/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/IK10101/DSA-CPP/tree/master/1020-number-of-enclaves) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/IK10101/DSA-CPP/tree/master/1091-shortest-path-in-binary-matrix) |
+| [1631-path-with-minimum-effort](https://github.com/IK10101/DSA-CPP/tree/master/1631-path-with-minimum-effort) |
 ## Union-Find
 |  |
 | ------- |
@@ -165,6 +170,7 @@ This repository contains my Data Structures and Algorithms practice in C++.
 | [0547-number-of-provinces](https://github.com/IK10101/DSA-CPP/tree/master/0547-number-of-provinces) |
 | [0785-is-graph-bipartite](https://github.com/IK10101/DSA-CPP/tree/master/0785-is-graph-bipartite) |
 | [1020-number-of-enclaves](https://github.com/IK10101/DSA-CPP/tree/master/1020-number-of-enclaves) |
+| [1631-path-with-minimum-effort](https://github.com/IK10101/DSA-CPP/tree/master/1631-path-with-minimum-effort) |
 ## Graph Theory
 |  |
 | ------- |
@@ -184,6 +190,7 @@ This repository contains my Data Structures and Algorithms practice in C++.
 | [0994-rotting-oranges](https://github.com/IK10101/DSA-CPP/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/IK10101/DSA-CPP/tree/master/1020-number-of-enclaves) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/IK10101/DSA-CPP/tree/master/1091-shortest-path-in-binary-matrix) |
+| [1631-path-with-minimum-effort](https://github.com/IK10101/DSA-CPP/tree/master/1631-path-with-minimum-effort) |
 ## Greedy
 |  |
 | ------- |
@@ -242,4 +249,5 @@ This repository contains my Data Structures and Algorithms practice in C++.
 |  |
 | ------- |
 | [0743-network-delay-time](https://github.com/IK10101/DSA-CPP/tree/master/0743-network-delay-time) |
+| [1631-path-with-minimum-effort](https://github.com/IK10101/DSA-CPP/tree/master/1631-path-with-minimum-effort) |
 <!---LeetCode Topics End-->
