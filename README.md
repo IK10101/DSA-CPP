@@ -63,6 +63,7 @@ This repository contains my Data Structures and Algorithms practice in C++.
 | [0215-kth-largest-element-in-an-array](https://github.com/IK10101/DSA-CPP/tree/master/0215-kth-largest-element-in-an-array) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/IK10101/DSA-CPP/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0743-network-delay-time](https://github.com/IK10101/DSA-CPP/tree/master/0743-network-delay-time) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/IK10101/DSA-CPP/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1631-path-with-minimum-effort](https://github.com/IK10101/DSA-CPP/tree/master/1631-path-with-minimum-effort) |
 ## Quickselect
 |  |
@@ -116,6 +117,7 @@ This repository contains my Data Structures and Algorithms practice in C++.
 | ------- |
 | [0045-jump-game-ii](https://github.com/IK10101/DSA-CPP/tree/master/0045-jump-game-ii) |
 | [0542-01-matrix](https://github.com/IK10101/DSA-CPP/tree/master/0542-01-matrix) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/IK10101/DSA-CPP/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0877-stone-game](https://github.com/IK10101/DSA-CPP/tree/master/0877-stone-game) |
 ## Minimax
 |  |
@@ -140,6 +142,7 @@ This repository contains my Data Structures and Algorithms practice in C++.
 | [0733-flood-fill](https://github.com/IK10101/DSA-CPP/tree/master/0733-flood-fill) |
 | [0743-network-delay-time](https://github.com/IK10101/DSA-CPP/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/IK10101/DSA-CPP/tree/master/0785-is-graph-bipartite) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/IK10101/DSA-CPP/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0802-find-eventual-safe-states](https://github.com/IK10101/DSA-CPP/tree/master/0802-find-eventual-safe-states) |
 | [1020-number-of-enclaves](https://github.com/IK10101/DSA-CPP/tree/master/1020-number-of-enclaves) |
 | [1631-path-with-minimum-effort](https://github.com/IK10101/DSA-CPP/tree/master/1631-path-with-minimum-effort) |
@@ -157,6 +160,7 @@ This repository contains my Data Structures and Algorithms practice in C++.
 | [0733-flood-fill](https://github.com/IK10101/DSA-CPP/tree/master/0733-flood-fill) |
 | [0743-network-delay-time](https://github.com/IK10101/DSA-CPP/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/IK10101/DSA-CPP/tree/master/0785-is-graph-bipartite) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/IK10101/DSA-CPP/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0802-find-eventual-safe-states](https://github.com/IK10101/DSA-CPP/tree/master/0802-find-eventual-safe-states) |
 | [0994-rotting-oranges](https://github.com/IK10101/DSA-CPP/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/IK10101/DSA-CPP/tree/master/1020-number-of-enclaves) |
@@ -179,6 +183,7 @@ This repository contains my Data Structures and Algorithms practice in C++.
 | [0547-number-of-provinces](https://github.com/IK10101/DSA-CPP/tree/master/0547-number-of-provinces) |
 | [0743-network-delay-time](https://github.com/IK10101/DSA-CPP/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/IK10101/DSA-CPP/tree/master/0785-is-graph-bipartite) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/IK10101/DSA-CPP/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0802-find-eventual-safe-states](https://github.com/IK10101/DSA-CPP/tree/master/0802-find-eventual-safe-states) |
 ## Matrix
 |  |
@@ -245,6 +250,7 @@ This repository contains my Data Structures and Algorithms practice in C++.
 |  |
 | ------- |
 | [0743-network-delay-time](https://github.com/IK10101/DSA-CPP/tree/master/0743-network-delay-time) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/IK10101/DSA-CPP/tree/master/0787-cheapest-flights-within-k-stops) |
 ## Dijkstra's Algorithm
 |  |
 | ------- |
