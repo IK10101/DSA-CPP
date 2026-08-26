@@ -149,6 +149,7 @@ This repository contains my Data Structures and Algorithms practice in C++.
 | [0785-is-graph-bipartite](https://github.com/IK10101/DSA-CPP/tree/master/0785-is-graph-bipartite) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/IK10101/DSA-CPP/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0802-find-eventual-safe-states](https://github.com/IK10101/DSA-CPP/tree/master/0802-find-eventual-safe-states) |
+| [0841-keys-and-rooms](https://github.com/IK10101/DSA-CPP/tree/master/0841-keys-and-rooms) |
 | [1020-number-of-enclaves](https://github.com/IK10101/DSA-CPP/tree/master/1020-number-of-enclaves) |
 | [1631-path-with-minimum-effort](https://github.com/IK10101/DSA-CPP/tree/master/1631-path-with-minimum-effort) |
 ## Breadth-First Search
@@ -168,6 +169,7 @@ This repository contains my Data Structures and Algorithms practice in C++.
 | [0785-is-graph-bipartite](https://github.com/IK10101/DSA-CPP/tree/master/0785-is-graph-bipartite) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/IK10101/DSA-CPP/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0802-find-eventual-safe-states](https://github.com/IK10101/DSA-CPP/tree/master/0802-find-eventual-safe-states) |
+| [0841-keys-and-rooms](https://github.com/IK10101/DSA-CPP/tree/master/0841-keys-and-rooms) |
 | [0994-rotting-oranges](https://github.com/IK10101/DSA-CPP/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/IK10101/DSA-CPP/tree/master/1020-number-of-enclaves) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/IK10101/DSA-CPP/tree/master/1091-shortest-path-in-binary-matrix) |
@@ -195,6 +197,7 @@ This repository contains my Data Structures and Algorithms practice in C++.
 | [0785-is-graph-bipartite](https://github.com/IK10101/DSA-CPP/tree/master/0785-is-graph-bipartite) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/IK10101/DSA-CPP/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0802-find-eventual-safe-states](https://github.com/IK10101/DSA-CPP/tree/master/0802-find-eventual-safe-states) |
+| [0841-keys-and-rooms](https://github.com/IK10101/DSA-CPP/tree/master/0841-keys-and-rooms) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/IK10101/DSA-CPP/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1584-min-cost-to-connect-all-points](https://github.com/IK10101/DSA-CPP/tree/master/1584-min-cost-to-connect-all-points) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/IK10101/DSA-CPP/tree/master/1976-number-of-ways-to-arrive-at-destination) |
