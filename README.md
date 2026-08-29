@@ -155,6 +155,7 @@ This repository contains my Data Structures and Algorithms practice in C++.
 | [0802-find-eventual-safe-states](https://github.com/IK10101/DSA-CPP/tree/master/0802-find-eventual-safe-states) |
 | [0827-making-a-large-island](https://github.com/IK10101/DSA-CPP/tree/master/0827-making-a-large-island) |
 | [0841-keys-and-rooms](https://github.com/IK10101/DSA-CPP/tree/master/0841-keys-and-rooms) |
+| [0947-most-stones-removed-with-same-row-or-column](https://github.com/IK10101/DSA-CPP/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [1020-number-of-enclaves](https://github.com/IK10101/DSA-CPP/tree/master/1020-number-of-enclaves) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/IK10101/DSA-CPP/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1631-path-with-minimum-effort](https://github.com/IK10101/DSA-CPP/tree/master/1631-path-with-minimum-effort) |
@@ -194,6 +195,7 @@ This repository contains my Data Structures and Algorithms practice in C++.
 | [0721-accounts-merge](https://github.com/IK10101/DSA-CPP/tree/master/0721-accounts-merge) |
 | [0785-is-graph-bipartite](https://github.com/IK10101/DSA-CPP/tree/master/0785-is-graph-bipartite) |
 | [0827-making-a-large-island](https://github.com/IK10101/DSA-CPP/tree/master/0827-making-a-large-island) |
+| [0947-most-stones-removed-with-same-row-or-column](https://github.com/IK10101/DSA-CPP/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [1020-number-of-enclaves](https://github.com/IK10101/DSA-CPP/tree/master/1020-number-of-enclaves) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/IK10101/DSA-CPP/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1584-min-cost-to-connect-all-points](https://github.com/IK10101/DSA-CPP/tree/master/1584-min-cost-to-connect-all-points) |
@@ -210,6 +212,7 @@ This repository contains my Data Structures and Algorithms practice in C++.
 | [0787-cheapest-flights-within-k-stops](https://github.com/IK10101/DSA-CPP/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0802-find-eventual-safe-states](https://github.com/IK10101/DSA-CPP/tree/master/0802-find-eventual-safe-states) |
 | [0841-keys-and-rooms](https://github.com/IK10101/DSA-CPP/tree/master/0841-keys-and-rooms) |
+| [0947-most-stones-removed-with-same-row-or-column](https://github.com/IK10101/DSA-CPP/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/IK10101/DSA-CPP/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/IK10101/DSA-CPP/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1584-min-cost-to-connect-all-points](https://github.com/IK10101/DSA-CPP/tree/master/1584-min-cost-to-connect-all-points) |
@@ -237,6 +240,7 @@ This repository contains my Data Structures and Algorithms practice in C++.
 | [0126-word-ladder-ii](https://github.com/IK10101/DSA-CPP/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/IK10101/DSA-CPP/tree/master/0127-word-ladder) |
 | [0721-accounts-merge](https://github.com/IK10101/DSA-CPP/tree/master/0721-accounts-merge) |
+| [0947-most-stones-removed-with-same-row-or-column](https://github.com/IK10101/DSA-CPP/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 ## Graph Coloring
 |  |
 | ------- |
@@ -245,6 +249,7 @@ This repository contains my Data Structures and Algorithms practice in C++.
 |  |
 | ------- |
 | [0785-is-graph-bipartite](https://github.com/IK10101/DSA-CPP/tree/master/0785-is-graph-bipartite) |
+| [0947-most-stones-removed-with-same-row-or-column](https://github.com/IK10101/DSA-CPP/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 ## Topological Sort
 |  |
 | ------- |
