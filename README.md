@@ -149,6 +149,7 @@ This repository contains my Data Structures and Algorithms practice in C++.
 | [0200-number-of-islands](https://github.com/IK10101/DSA-CPP/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/IK10101/DSA-CPP/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/IK10101/DSA-CPP/tree/master/0210-course-schedule-ii) |
+| [0310-minimum-height-trees](https://github.com/IK10101/DSA-CPP/tree/master/0310-minimum-height-trees) |
 | [0547-number-of-provinces](https://github.com/IK10101/DSA-CPP/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/IK10101/DSA-CPP/tree/master/0684-redundant-connection) |
 | [0721-accounts-merge](https://github.com/IK10101/DSA-CPP/tree/master/0721-accounts-merge) |
@@ -172,6 +173,7 @@ This repository contains my Data Structures and Algorithms practice in C++.
 | [0200-number-of-islands](https://github.com/IK10101/DSA-CPP/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/IK10101/DSA-CPP/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/IK10101/DSA-CPP/tree/master/0210-course-schedule-ii) |
+| [0310-minimum-height-trees](https://github.com/IK10101/DSA-CPP/tree/master/0310-minimum-height-trees) |
 | [0542-01-matrix](https://github.com/IK10101/DSA-CPP/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/IK10101/DSA-CPP/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/IK10101/DSA-CPP/tree/master/0684-redundant-connection) |
@@ -210,6 +212,7 @@ This repository contains my Data Structures and Algorithms practice in C++.
 | ------- |
 | [0207-course-schedule](https://github.com/IK10101/DSA-CPP/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/IK10101/DSA-CPP/tree/master/0210-course-schedule-ii) |
+| [0310-minimum-height-trees](https://github.com/IK10101/DSA-CPP/tree/master/0310-minimum-height-trees) |
 | [0547-number-of-provinces](https://github.com/IK10101/DSA-CPP/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/IK10101/DSA-CPP/tree/master/0684-redundant-connection) |
 | [0743-network-delay-time](https://github.com/IK10101/DSA-CPP/tree/master/0743-network-delay-time) |
@@ -261,6 +264,7 @@ This repository contains my Data Structures and Algorithms practice in C++.
 | ------- |
 | [0207-course-schedule](https://github.com/IK10101/DSA-CPP/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/IK10101/DSA-CPP/tree/master/0210-course-schedule-ii) |
+| [0310-minimum-height-trees](https://github.com/IK10101/DSA-CPP/tree/master/0310-minimum-height-trees) |
 | [0802-find-eventual-safe-states](https://github.com/IK10101/DSA-CPP/tree/master/0802-find-eventual-safe-states) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/IK10101/DSA-CPP/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 ## Kosaraju's Algorithm
