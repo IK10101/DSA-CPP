@@ -41,6 +41,7 @@ This repository contains my Data Structures and Algorithms practice in C++.
 | [0200-number-of-islands](https://github.com/IK10101/DSA-CPP/tree/master/0200-number-of-islands) |
 | [0215-kth-largest-element-in-an-array](https://github.com/IK10101/DSA-CPP/tree/master/0215-kth-largest-element-in-an-array) |
 | [0238-product-of-array-except-self](https://github.com/IK10101/DSA-CPP/tree/master/0238-product-of-array-except-self) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/IK10101/DSA-CPP/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0542-01-matrix](https://github.com/IK10101/DSA-CPP/tree/master/0542-01-matrix) |
 | [0721-accounts-merge](https://github.com/IK10101/DSA-CPP/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/IK10101/DSA-CPP/tree/master/0733-flood-fill) |
@@ -125,6 +126,7 @@ This repository contains my Data Structures and Algorithms practice in C++.
 |  |
 | ------- |
 | [0045-jump-game-ii](https://github.com/IK10101/DSA-CPP/tree/master/0045-jump-game-ii) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/IK10101/DSA-CPP/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0542-01-matrix](https://github.com/IK10101/DSA-CPP/tree/master/0542-01-matrix) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/IK10101/DSA-CPP/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0877-stone-game](https://github.com/IK10101/DSA-CPP/tree/master/0877-stone-game) |
@@ -150,6 +152,7 @@ This repository contains my Data Structures and Algorithms practice in C++.
 | [0207-course-schedule](https://github.com/IK10101/DSA-CPP/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/IK10101/DSA-CPP/tree/master/0210-course-schedule-ii) |
 | [0310-minimum-height-trees](https://github.com/IK10101/DSA-CPP/tree/master/0310-minimum-height-trees) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/IK10101/DSA-CPP/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0547-number-of-provinces](https://github.com/IK10101/DSA-CPP/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/IK10101/DSA-CPP/tree/master/0684-redundant-connection) |
 | [0721-accounts-merge](https://github.com/IK10101/DSA-CPP/tree/master/0721-accounts-merge) |
@@ -175,6 +178,7 @@ This repository contains my Data Structures and Algorithms practice in C++.
 | [0207-course-schedule](https://github.com/IK10101/DSA-CPP/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/IK10101/DSA-CPP/tree/master/0210-course-schedule-ii) |
 | [0310-minimum-height-trees](https://github.com/IK10101/DSA-CPP/tree/master/0310-minimum-height-trees) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/IK10101/DSA-CPP/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0542-01-matrix](https://github.com/IK10101/DSA-CPP/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/IK10101/DSA-CPP/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/IK10101/DSA-CPP/tree/master/0684-redundant-connection) |
@@ -214,6 +218,7 @@ This repository contains my Data Structures and Algorithms practice in C++.
 | [0207-course-schedule](https://github.com/IK10101/DSA-CPP/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/IK10101/DSA-CPP/tree/master/0210-course-schedule-ii) |
 | [0310-minimum-height-trees](https://github.com/IK10101/DSA-CPP/tree/master/0310-minimum-height-trees) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/IK10101/DSA-CPP/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0547-number-of-provinces](https://github.com/IK10101/DSA-CPP/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/IK10101/DSA-CPP/tree/master/0684-redundant-connection) |
 | [0743-network-delay-time](https://github.com/IK10101/DSA-CPP/tree/master/0743-network-delay-time) |
@@ -233,6 +238,7 @@ This repository contains my Data Structures and Algorithms practice in C++.
 | ------- |
 | [0130-surrounded-regions](https://github.com/IK10101/DSA-CPP/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/IK10101/DSA-CPP/tree/master/0200-number-of-islands) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/IK10101/DSA-CPP/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0542-01-matrix](https://github.com/IK10101/DSA-CPP/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/IK10101/DSA-CPP/tree/master/0733-flood-fill) |
 | [0827-making-a-large-island](https://github.com/IK10101/DSA-CPP/tree/master/0827-making-a-large-island) |
@@ -267,6 +273,7 @@ This repository contains my Data Structures and Algorithms practice in C++.
 | [0207-course-schedule](https://github.com/IK10101/DSA-CPP/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/IK10101/DSA-CPP/tree/master/0210-course-schedule-ii) |
 | [0310-minimum-height-trees](https://github.com/IK10101/DSA-CPP/tree/master/0310-minimum-height-trees) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/IK10101/DSA-CPP/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0802-find-eventual-safe-states](https://github.com/IK10101/DSA-CPP/tree/master/0802-find-eventual-safe-states) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/IK10101/DSA-CPP/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 ## Kosaraju's Algorithm
@@ -281,6 +288,7 @@ This repository contains my Data Structures and Algorithms practice in C++.
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/IK10101/DSA-CPP/tree/master/0207-course-schedule) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/IK10101/DSA-CPP/tree/master/0329-longest-increasing-path-in-a-matrix) |
 ## String
 |  |
 | ------- |
@@ -351,4 +359,8 @@ This repository contains my Data Structures and Algorithms practice in C++.
 |  |
 | ------- |
 | [1192-critical-connections-in-a-network](https://github.com/IK10101/DSA-CPP/tree/master/1192-critical-connections-in-a-network) |
+## Memoization
+|  |
+| ------- |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/IK10101/DSA-CPP/tree/master/0329-longest-increasing-path-in-a-matrix) |
 <!---LeetCode Topics End-->
