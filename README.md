@@ -121,11 +121,13 @@ This repository contains my Data Structures and Algorithms practice in C++.
 ## Math
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/IK10101/DSA-CPP/tree/master/0070-climbing-stairs) |
 | [0877-stone-game](https://github.com/IK10101/DSA-CPP/tree/master/0877-stone-game) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0045-jump-game-ii](https://github.com/IK10101/DSA-CPP/tree/master/0045-jump-game-ii) |
+| [0070-climbing-stairs](https://github.com/IK10101/DSA-CPP/tree/master/0070-climbing-stairs) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/IK10101/DSA-CPP/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0542-01-matrix](https://github.com/IK10101/DSA-CPP/tree/master/0542-01-matrix) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/IK10101/DSA-CPP/tree/master/0787-cheapest-flights-within-k-stops) |
@@ -362,5 +364,6 @@ This repository contains my Data Structures and Algorithms practice in C++.
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/IK10101/DSA-CPP/tree/master/0070-climbing-stairs) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/IK10101/DSA-CPP/tree/master/0329-longest-increasing-path-in-a-matrix) |
 <!---LeetCode Topics End-->
