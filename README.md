@@ -51,6 +51,7 @@ This repository contains my Data Structures and Algorithms practice in C++.
 | [0746-min-cost-climbing-stairs](https://github.com/IK10101/DSA-CPP/tree/master/0746-min-cost-climbing-stairs) |
 | [0827-making-a-large-island](https://github.com/IK10101/DSA-CPP/tree/master/0827-making-a-large-island) |
 | [0877-stone-game](https://github.com/IK10101/DSA-CPP/tree/master/0877-stone-game) |
+| [0931-minimum-falling-path-sum](https://github.com/IK10101/DSA-CPP/tree/master/0931-minimum-falling-path-sum) |
 | [0990-satisfiability-of-equality-equations](https://github.com/IK10101/DSA-CPP/tree/master/0990-satisfiability-of-equality-equations) |
 | [0994-rotting-oranges](https://github.com/IK10101/DSA-CPP/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/IK10101/DSA-CPP/tree/master/1020-number-of-enclaves) |
@@ -142,6 +143,7 @@ This repository contains my Data Structures and Algorithms practice in C++.
 | [0746-min-cost-climbing-stairs](https://github.com/IK10101/DSA-CPP/tree/master/0746-min-cost-climbing-stairs) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/IK10101/DSA-CPP/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0877-stone-game](https://github.com/IK10101/DSA-CPP/tree/master/0877-stone-game) |
+| [0931-minimum-falling-path-sum](https://github.com/IK10101/DSA-CPP/tree/master/0931-minimum-falling-path-sum) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/IK10101/DSA-CPP/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/IK10101/DSA-CPP/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 ## Minimax
@@ -255,6 +257,7 @@ This repository contains my Data Structures and Algorithms practice in C++.
 | [0542-01-matrix](https://github.com/IK10101/DSA-CPP/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/IK10101/DSA-CPP/tree/master/0733-flood-fill) |
 | [0827-making-a-large-island](https://github.com/IK10101/DSA-CPP/tree/master/0827-making-a-large-island) |
+| [0931-minimum-falling-path-sum](https://github.com/IK10101/DSA-CPP/tree/master/0931-minimum-falling-path-sum) |
 | [0994-rotting-oranges](https://github.com/IK10101/DSA-CPP/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/IK10101/DSA-CPP/tree/master/1020-number-of-enclaves) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/IK10101/DSA-CPP/tree/master/1091-shortest-path-in-binary-matrix) |
