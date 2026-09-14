@@ -128,6 +128,7 @@ This repository contains my Data Structures and Algorithms practice in C++.
 | ------- |
 | [0062-unique-paths](https://github.com/IK10101/DSA-CPP/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/IK10101/DSA-CPP/tree/master/0070-climbing-stairs) |
+| [0836-rectangle-overlap](https://github.com/IK10101/DSA-CPP/tree/master/0836-rectangle-overlap) |
 | [0877-stone-game](https://github.com/IK10101/DSA-CPP/tree/master/0877-stone-game) |
 ## Dynamic Programming
 |  |
@@ -384,4 +385,8 @@ This repository contains my Data Structures and Algorithms practice in C++.
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/IK10101/DSA-CPP/tree/master/0062-unique-paths) |
+## Geometry
+|  |
+| ------- |
+| [0836-rectangle-overlap](https://github.com/IK10101/DSA-CPP/tree/master/0836-rectangle-overlap) |
 <!---LeetCode Topics End-->
