@@ -38,6 +38,7 @@ This repository contains my Data Structures and Algorithms practice in C++.
 | [0045-jump-game-ii](https://github.com/IK10101/DSA-CPP/tree/master/0045-jump-game-ii) |
 | [0063-unique-paths-ii](https://github.com/IK10101/DSA-CPP/tree/master/0063-unique-paths-ii) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/IK10101/DSA-CPP/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+| [0120-triangle](https://github.com/IK10101/DSA-CPP/tree/master/0120-triangle) |
 | [0130-surrounded-regions](https://github.com/IK10101/DSA-CPP/tree/master/0130-surrounded-regions) |
 | [0198-house-robber](https://github.com/IK10101/DSA-CPP/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/IK10101/DSA-CPP/tree/master/0200-number-of-islands) |
@@ -137,6 +138,7 @@ This repository contains my Data Structures and Algorithms practice in C++.
 | [0062-unique-paths](https://github.com/IK10101/DSA-CPP/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/IK10101/DSA-CPP/tree/master/0063-unique-paths-ii) |
 | [0070-climbing-stairs](https://github.com/IK10101/DSA-CPP/tree/master/0070-climbing-stairs) |
+| [0120-triangle](https://github.com/IK10101/DSA-CPP/tree/master/0120-triangle) |
 | [0198-house-robber](https://github.com/IK10101/DSA-CPP/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/IK10101/DSA-CPP/tree/master/0213-house-robber-ii) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/IK10101/DSA-CPP/tree/master/0329-longest-increasing-path-in-a-matrix) |
