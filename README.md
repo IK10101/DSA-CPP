@@ -58,6 +58,7 @@ This repository contains my Data Structures and Algorithms practice in C++.
 | [1020-number-of-enclaves](https://github.com/IK10101/DSA-CPP/tree/master/1020-number-of-enclaves) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/IK10101/DSA-CPP/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1463-cherry-pickup-ii](https://github.com/IK10101/DSA-CPP/tree/master/1463-cherry-pickup-ii) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/IK10101/DSA-CPP/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1584-min-cost-to-connect-all-points](https://github.com/IK10101/DSA-CPP/tree/master/1584-min-cost-to-connect-all-points) |
 | [1631-path-with-minimum-effort](https://github.com/IK10101/DSA-CPP/tree/master/1631-path-with-minimum-effort) |
 | [2059-minimum-operations-to-convert-number](https://github.com/IK10101/DSA-CPP/tree/master/2059-minimum-operations-to-convert-number) |
@@ -100,6 +101,7 @@ This repository contains my Data Structures and Algorithms practice in C++.
 | [0033-search-in-rotated-sorted-array](https://github.com/IK10101/DSA-CPP/tree/master/0033-search-in-rotated-sorted-array) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/IK10101/DSA-CPP/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/IK10101/DSA-CPP/tree/master/0703-kth-largest-element-in-a-stream) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/IK10101/DSA-CPP/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1631-path-with-minimum-effort](https://github.com/IK10101/DSA-CPP/tree/master/1631-path-with-minimum-effort) |
 ## Binary Tree
 |  |
@@ -150,6 +152,7 @@ This repository contains my Data Structures and Algorithms practice in C++.
 | [0931-minimum-falling-path-sum](https://github.com/IK10101/DSA-CPP/tree/master/0931-minimum-falling-path-sum) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/IK10101/DSA-CPP/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1463-cherry-pickup-ii](https://github.com/IK10101/DSA-CPP/tree/master/1463-cherry-pickup-ii) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/IK10101/DSA-CPP/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/IK10101/DSA-CPP/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 ## Minimax
 |  |
@@ -280,6 +283,7 @@ This repository contains my Data Structures and Algorithms practice in C++.
 | [0127-word-ladder](https://github.com/IK10101/DSA-CPP/tree/master/0127-word-ladder) |
 | [0721-accounts-merge](https://github.com/IK10101/DSA-CPP/tree/master/0721-accounts-merge) |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/IK10101/DSA-CPP/tree/master/0947-most-stones-removed-with-same-row-or-column) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/IK10101/DSA-CPP/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 ## Graph Coloring
 |  |
 | ------- |
@@ -394,4 +398,8 @@ This repository contains my Data Structures and Algorithms practice in C++.
 |  |
 | ------- |
 | [0836-rectangle-overlap](https://github.com/IK10101/DSA-CPP/tree/master/0836-rectangle-overlap) |
+## Sliding Window
+|  |
+| ------- |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/IK10101/DSA-CPP/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 <!---LeetCode Topics End-->
