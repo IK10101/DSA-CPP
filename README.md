@@ -332,6 +332,7 @@ This repository contains my Data Structures and Algorithms practice in C++.
 | [0721-accounts-merge](https://github.com/IK10101/DSA-CPP/tree/master/0721-accounts-merge) |
 | [0990-satisfiability-of-equality-equations](https://github.com/IK10101/DSA-CPP/tree/master/0990-satisfiability-of-equality-equations) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/IK10101/DSA-CPP/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
+| [3498-reverse-degree-of-a-string](https://github.com/IK10101/DSA-CPP/tree/master/3498-reverse-degree-of-a-string) |
 ## Bidirectional Search
 |  |
 | ------- |
@@ -413,4 +414,8 @@ This repository contains my Data Structures and Algorithms practice in C++.
 |  |
 | ------- |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/IK10101/DSA-CPP/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+## Simulation
+|  |
+| ------- |
+| [3498-reverse-degree-of-a-string](https://github.com/IK10101/DSA-CPP/tree/master/3498-reverse-degree-of-a-string) |
 <!---LeetCode Topics End-->
