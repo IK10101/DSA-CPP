@@ -51,6 +51,7 @@ This repository contains my Data Structures and Algorithms practice in C++.
 | [0238-product-of-array-except-self](https://github.com/IK10101/DSA-CPP/tree/master/0238-product-of-array-except-self) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/IK10101/DSA-CPP/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0542-01-matrix](https://github.com/IK10101/DSA-CPP/tree/master/0542-01-matrix) |
+| [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/IK10101/DSA-CPP/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0721-accounts-merge](https://github.com/IK10101/DSA-CPP/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/IK10101/DSA-CPP/tree/master/0733-flood-fill) |
 | [0746-min-cost-climbing-stairs](https://github.com/IK10101/DSA-CPP/tree/master/0746-min-cost-climbing-stairs) |
@@ -158,6 +159,7 @@ This repository contains my Data Structures and Algorithms practice in C++.
 | [0213-house-robber-ii](https://github.com/IK10101/DSA-CPP/tree/master/0213-house-robber-ii) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/IK10101/DSA-CPP/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0542-01-matrix](https://github.com/IK10101/DSA-CPP/tree/master/0542-01-matrix) |
+| [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/IK10101/DSA-CPP/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0746-min-cost-climbing-stairs](https://github.com/IK10101/DSA-CPP/tree/master/0746-min-cost-climbing-stairs) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/IK10101/DSA-CPP/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0877-stone-game](https://github.com/IK10101/DSA-CPP/tree/master/0877-stone-game) |
@@ -289,6 +291,7 @@ This repository contains my Data Structures and Algorithms practice in C++.
 | ------- |
 | [0045-jump-game-ii](https://github.com/IK10101/DSA-CPP/tree/master/0045-jump-game-ii) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/IK10101/DSA-CPP/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/IK10101/DSA-CPP/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/IK10101/DSA-CPP/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 ## Hash Table
 |  |
