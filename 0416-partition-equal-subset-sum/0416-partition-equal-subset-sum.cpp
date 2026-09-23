@@ -12,26 +12,26 @@ public:
 
         int target = sum / 2;
 
-        vector<vector<int>> dp(n, vector<int>(target + 1, 0));
+        vector<int> ahead(target + 1, 0);
+        ahead[0] = true;
 
-        for (int i = 0; i < n; i++) {
-            dp[i][0] = true;
-        }
-        if (nums[0] <= target) {
-            dp[0][nums[0]] = true;
-        }
+        if (nums[0] <= target)
+            ahead[nums[0]] = true;
+
+        vector<int> curr(target + 1, 0);
 
         for (int ind = 1; ind < n; ind++) {
             for (int j = 0; j <= target; j++) {
-                bool notTake = dp[ind - 1][j];
+                bool notTake = ahead[j];
                 bool take = false;
                 if (nums[ind] <= j) {
-                    take = dp[ind - 1][j - nums[ind]];
+                    take = ahead[j - nums[ind]];
                 }
-                dp[ind][j] = notTake || take;
+                curr[j] = notTake || take;
             }
+            ahead = curr;
         }
 
-        return dp[n - 1][target];
+        return ahead[target];
     }
 };
