@@ -70,6 +70,7 @@ This repository contains my Data Structures and Algorithms practice in C++.
 | [1631-path-with-minimum-effort](https://github.com/IK10101/DSA-CPP/tree/master/1631-path-with-minimum-effort) |
 | [2059-minimum-operations-to-convert-number](https://github.com/IK10101/DSA-CPP/tree/master/2059-minimum-operations-to-convert-number) |
 | [3524-find-x-value-of-array-i](https://github.com/IK10101/DSA-CPP/tree/master/3524-find-x-value-of-array-i) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/IK10101/DSA-CPP/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -145,6 +146,7 @@ This repository contains my Data Structures and Algorithms practice in C++.
 | [0877-stone-game](https://github.com/IK10101/DSA-CPP/tree/master/0877-stone-game) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/IK10101/DSA-CPP/tree/master/1401-circle-and-rectangle-overlapping) |
 | [3524-find-x-value-of-array-i](https://github.com/IK10101/DSA-CPP/tree/master/3524-find-x-value-of-array-i) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/IK10101/DSA-CPP/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 ## Dynamic Programming
 |  |
 | ------- |
