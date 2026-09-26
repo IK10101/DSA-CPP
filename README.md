@@ -52,6 +52,7 @@ This repository contains my Data Structures and Algorithms practice in C++.
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/IK10101/DSA-CPP/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/IK10101/DSA-CPP/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0416-partition-equal-subset-sum](https://github.com/IK10101/DSA-CPP/tree/master/0416-partition-equal-subset-sum) |
+| [0494-target-sum](https://github.com/IK10101/DSA-CPP/tree/master/0494-target-sum) |
 | [0542-01-matrix](https://github.com/IK10101/DSA-CPP/tree/master/0542-01-matrix) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/IK10101/DSA-CPP/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0721-accounts-merge](https://github.com/IK10101/DSA-CPP/tree/master/0721-accounts-merge) |
@@ -165,6 +166,7 @@ This repository contains my Data Structures and Algorithms practice in C++.
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/IK10101/DSA-CPP/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/IK10101/DSA-CPP/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0416-partition-equal-subset-sum](https://github.com/IK10101/DSA-CPP/tree/master/0416-partition-equal-subset-sum) |
+| [0494-target-sum](https://github.com/IK10101/DSA-CPP/tree/master/0494-target-sum) |
 | [0542-01-matrix](https://github.com/IK10101/DSA-CPP/tree/master/0542-01-matrix) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/IK10101/DSA-CPP/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0746-min-cost-climbing-stairs](https://github.com/IK10101/DSA-CPP/tree/master/0746-min-cost-climbing-stairs) |
@@ -360,6 +362,7 @@ This repository contains my Data Structures and Algorithms practice in C++.
 |  |
 | ------- |
 | [0126-word-ladder-ii](https://github.com/IK10101/DSA-CPP/tree/master/0126-word-ladder-ii) |
+| [0494-target-sum](https://github.com/IK10101/DSA-CPP/tree/master/0494-target-sum) |
 ## Shortest Path
 |  |
 | ------- |
@@ -440,10 +443,12 @@ This repository contains my Data Structures and Algorithms practice in C++.
 |  |
 | ------- |
 | [0416-partition-equal-subset-sum](https://github.com/IK10101/DSA-CPP/tree/master/0416-partition-equal-subset-sum) |
+| [0494-target-sum](https://github.com/IK10101/DSA-CPP/tree/master/0494-target-sum) |
 | [1049-last-stone-weight-ii](https://github.com/IK10101/DSA-CPP/tree/master/1049-last-stone-weight-ii) |
 ## 0-1 Knapsack
 |  |
 | ------- |
 | [0416-partition-equal-subset-sum](https://github.com/IK10101/DSA-CPP/tree/master/0416-partition-equal-subset-sum) |
+| [0494-target-sum](https://github.com/IK10101/DSA-CPP/tree/master/0494-target-sum) |
 | [1049-last-stone-weight-ii](https://github.com/IK10101/DSA-CPP/tree/master/1049-last-stone-weight-ii) |
 <!---LeetCode Topics End-->
