@@ -50,6 +50,7 @@ This repository contains my Data Structures and Algorithms practice in C++.
 | [0215-kth-largest-element-in-an-array](https://github.com/IK10101/DSA-CPP/tree/master/0215-kth-largest-element-in-an-array) |
 | [0238-product-of-array-except-self](https://github.com/IK10101/DSA-CPP/tree/master/0238-product-of-array-except-self) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/IK10101/DSA-CPP/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
+| [0322-coin-change](https://github.com/IK10101/DSA-CPP/tree/master/0322-coin-change) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/IK10101/DSA-CPP/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0416-partition-equal-subset-sum](https://github.com/IK10101/DSA-CPP/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/IK10101/DSA-CPP/tree/master/0494-target-sum) |
@@ -164,6 +165,7 @@ This repository contains my Data Structures and Algorithms practice in C++.
 | [0198-house-robber](https://github.com/IK10101/DSA-CPP/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/IK10101/DSA-CPP/tree/master/0213-house-robber-ii) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/IK10101/DSA-CPP/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
+| [0322-coin-change](https://github.com/IK10101/DSA-CPP/tree/master/0322-coin-change) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/IK10101/DSA-CPP/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0416-partition-equal-subset-sum](https://github.com/IK10101/DSA-CPP/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/IK10101/DSA-CPP/tree/master/0494-target-sum) |
@@ -225,6 +227,7 @@ This repository contains my Data Structures and Algorithms practice in C++.
 | [0207-course-schedule](https://github.com/IK10101/DSA-CPP/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/IK10101/DSA-CPP/tree/master/0210-course-schedule-ii) |
 | [0310-minimum-height-trees](https://github.com/IK10101/DSA-CPP/tree/master/0310-minimum-height-trees) |
+| [0322-coin-change](https://github.com/IK10101/DSA-CPP/tree/master/0322-coin-change) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/IK10101/DSA-CPP/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0542-01-matrix](https://github.com/IK10101/DSA-CPP/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/IK10101/DSA-CPP/tree/master/0547-number-of-provinces) |
@@ -442,6 +445,7 @@ This repository contains my Data Structures and Algorithms practice in C++.
 ## Knapsack Problem
 |  |
 | ------- |
+| [0322-coin-change](https://github.com/IK10101/DSA-CPP/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/IK10101/DSA-CPP/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/IK10101/DSA-CPP/tree/master/0494-target-sum) |
 | [1049-last-stone-weight-ii](https://github.com/IK10101/DSA-CPP/tree/master/1049-last-stone-weight-ii) |
@@ -451,4 +455,8 @@ This repository contains my Data Structures and Algorithms practice in C++.
 | [0416-partition-equal-subset-sum](https://github.com/IK10101/DSA-CPP/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/IK10101/DSA-CPP/tree/master/0494-target-sum) |
 | [1049-last-stone-weight-ii](https://github.com/IK10101/DSA-CPP/tree/master/1049-last-stone-weight-ii) |
+## Complete Knapsack
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/IK10101/DSA-CPP/tree/master/0322-coin-change) |
 <!---LeetCode Topics End-->
