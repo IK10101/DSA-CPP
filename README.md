@@ -146,6 +146,7 @@ This repository contains my Data Structures and Algorithms practice in C++.
 | ------- |
 | [0062-unique-paths](https://github.com/IK10101/DSA-CPP/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/IK10101/DSA-CPP/tree/master/0070-climbing-stairs) |
+| [0279-perfect-squares](https://github.com/IK10101/DSA-CPP/tree/master/0279-perfect-squares) |
 | [0836-rectangle-overlap](https://github.com/IK10101/DSA-CPP/tree/master/0836-rectangle-overlap) |
 | [0877-stone-game](https://github.com/IK10101/DSA-CPP/tree/master/0877-stone-game) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/IK10101/DSA-CPP/tree/master/1401-circle-and-rectangle-overlapping) |
@@ -165,6 +166,7 @@ This repository contains my Data Structures and Algorithms practice in C++.
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/IK10101/DSA-CPP/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0198-house-robber](https://github.com/IK10101/DSA-CPP/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/IK10101/DSA-CPP/tree/master/0213-house-robber-ii) |
+| [0279-perfect-squares](https://github.com/IK10101/DSA-CPP/tree/master/0279-perfect-squares) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/IK10101/DSA-CPP/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0322-coin-change](https://github.com/IK10101/DSA-CPP/tree/master/0322-coin-change) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/IK10101/DSA-CPP/tree/master/0329-longest-increasing-path-in-a-matrix) |
@@ -228,6 +230,7 @@ This repository contains my Data Structures and Algorithms practice in C++.
 | [0200-number-of-islands](https://github.com/IK10101/DSA-CPP/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/IK10101/DSA-CPP/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/IK10101/DSA-CPP/tree/master/0210-course-schedule-ii) |
+| [0279-perfect-squares](https://github.com/IK10101/DSA-CPP/tree/master/0279-perfect-squares) |
 | [0310-minimum-height-trees](https://github.com/IK10101/DSA-CPP/tree/master/0310-minimum-height-trees) |
 | [0322-coin-change](https://github.com/IK10101/DSA-CPP/tree/master/0322-coin-change) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/IK10101/DSA-CPP/tree/master/0329-longest-increasing-path-in-a-matrix) |
@@ -447,6 +450,7 @@ This repository contains my Data Structures and Algorithms practice in C++.
 ## Knapsack Problem
 |  |
 | ------- |
+| [0279-perfect-squares](https://github.com/IK10101/DSA-CPP/tree/master/0279-perfect-squares) |
 | [0322-coin-change](https://github.com/IK10101/DSA-CPP/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/IK10101/DSA-CPP/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/IK10101/DSA-CPP/tree/master/0494-target-sum) |
@@ -461,6 +465,7 @@ This repository contains my Data Structures and Algorithms practice in C++.
 ## Complete Knapsack
 |  |
 | ------- |
+| [0279-perfect-squares](https://github.com/IK10101/DSA-CPP/tree/master/0279-perfect-squares) |
 | [0322-coin-change](https://github.com/IK10101/DSA-CPP/tree/master/0322-coin-change) |
 | [0518-coin-change-ii](https://github.com/IK10101/DSA-CPP/tree/master/0518-coin-change-ii) |
 <!---LeetCode Topics End-->
