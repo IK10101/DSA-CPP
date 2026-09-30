@@ -49,6 +49,7 @@ This repository contains my Data Structures and Algorithms practice in C++.
 | [0213-house-robber-ii](https://github.com/IK10101/DSA-CPP/tree/master/0213-house-robber-ii) |
 | [0215-kth-largest-element-in-an-array](https://github.com/IK10101/DSA-CPP/tree/master/0215-kth-largest-element-in-an-array) |
 | [0238-product-of-array-except-self](https://github.com/IK10101/DSA-CPP/tree/master/0238-product-of-array-except-self) |
+| [0300-longest-increasing-subsequence](https://github.com/IK10101/DSA-CPP/tree/master/0300-longest-increasing-subsequence) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/IK10101/DSA-CPP/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0322-coin-change](https://github.com/IK10101/DSA-CPP/tree/master/0322-coin-change) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/IK10101/DSA-CPP/tree/master/0329-longest-increasing-path-in-a-matrix) |
@@ -114,6 +115,7 @@ This repository contains my Data Structures and Algorithms practice in C++.
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/IK10101/DSA-CPP/tree/master/0033-search-in-rotated-sorted-array) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/IK10101/DSA-CPP/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
+| [0300-longest-increasing-subsequence](https://github.com/IK10101/DSA-CPP/tree/master/0300-longest-increasing-subsequence) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/IK10101/DSA-CPP/tree/master/0703-kth-largest-element-in-a-stream) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/IK10101/DSA-CPP/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1631-path-with-minimum-effort](https://github.com/IK10101/DSA-CPP/tree/master/1631-path-with-minimum-effort) |
@@ -167,6 +169,7 @@ This repository contains my Data Structures and Algorithms practice in C++.
 | [0198-house-robber](https://github.com/IK10101/DSA-CPP/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/IK10101/DSA-CPP/tree/master/0213-house-robber-ii) |
 | [0279-perfect-squares](https://github.com/IK10101/DSA-CPP/tree/master/0279-perfect-squares) |
+| [0300-longest-increasing-subsequence](https://github.com/IK10101/DSA-CPP/tree/master/0300-longest-increasing-subsequence) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/IK10101/DSA-CPP/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0322-coin-change](https://github.com/IK10101/DSA-CPP/tree/master/0322-coin-change) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/IK10101/DSA-CPP/tree/master/0329-longest-increasing-path-in-a-matrix) |
@@ -468,4 +471,8 @@ This repository contains my Data Structures and Algorithms practice in C++.
 | [0279-perfect-squares](https://github.com/IK10101/DSA-CPP/tree/master/0279-perfect-squares) |
 | [0322-coin-change](https://github.com/IK10101/DSA-CPP/tree/master/0322-coin-change) |
 | [0518-coin-change-ii](https://github.com/IK10101/DSA-CPP/tree/master/0518-coin-change-ii) |
+## Longest Increasing Subsequence
+|  |
+| ------- |
+| [0300-longest-increasing-subsequence](https://github.com/IK10101/DSA-CPP/tree/master/0300-longest-increasing-subsequence) |
 <!---LeetCode Topics End-->
