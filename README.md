@@ -59,6 +59,7 @@ This repository contains my Data Structures and Algorithms practice in C++.
 | [0494-target-sum](https://github.com/IK10101/DSA-CPP/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/IK10101/DSA-CPP/tree/master/0518-coin-change-ii) |
 | [0542-01-matrix](https://github.com/IK10101/DSA-CPP/tree/master/0542-01-matrix) |
+| [0673-number-of-longest-increasing-subsequence](https://github.com/IK10101/DSA-CPP/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/IK10101/DSA-CPP/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0721-accounts-merge](https://github.com/IK10101/DSA-CPP/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/IK10101/DSA-CPP/tree/master/0733-flood-fill) |
@@ -186,6 +187,7 @@ This repository contains my Data Structures and Algorithms practice in C++.
 | [0494-target-sum](https://github.com/IK10101/DSA-CPP/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/IK10101/DSA-CPP/tree/master/0518-coin-change-ii) |
 | [0542-01-matrix](https://github.com/IK10101/DSA-CPP/tree/master/0542-01-matrix) |
+| [0673-number-of-longest-increasing-subsequence](https://github.com/IK10101/DSA-CPP/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/IK10101/DSA-CPP/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0746-min-cost-climbing-stairs](https://github.com/IK10101/DSA-CPP/tree/master/0746-min-cost-climbing-stairs) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/IK10101/DSA-CPP/tree/master/0787-cheapest-flights-within-k-stops) |
@@ -488,4 +490,13 @@ This repository contains my Data Structures and Algorithms practice in C++.
 |  |
 | ------- |
 | [0300-longest-increasing-subsequence](https://github.com/IK10101/DSA-CPP/tree/master/0300-longest-increasing-subsequence) |
+| [0673-number-of-longest-increasing-subsequence](https://github.com/IK10101/DSA-CPP/tree/master/0673-number-of-longest-increasing-subsequence) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [0673-number-of-longest-increasing-subsequence](https://github.com/IK10101/DSA-CPP/tree/master/0673-number-of-longest-increasing-subsequence) |
+## Segment Tree
+|  |
+| ------- |
+| [0673-number-of-longest-increasing-subsequence](https://github.com/IK10101/DSA-CPP/tree/master/0673-number-of-longest-increasing-subsequence) |
 <!---LeetCode Topics End-->
