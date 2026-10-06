@@ -196,6 +196,7 @@ This repository contains my Data Structures and Algorithms practice in C++.
 | [0931-minimum-falling-path-sum](https://github.com/IK10101/DSA-CPP/tree/master/0931-minimum-falling-path-sum) |
 | [1048-longest-string-chain](https://github.com/IK10101/DSA-CPP/tree/master/1048-longest-string-chain) |
 | [1049-last-stone-weight-ii](https://github.com/IK10101/DSA-CPP/tree/master/1049-last-stone-weight-ii) |
+| [1092-shortest-common-supersequence](https://github.com/IK10101/DSA-CPP/tree/master/1092-shortest-common-supersequence) |
 | [1143-longest-common-subsequence](https://github.com/IK10101/DSA-CPP/tree/master/1143-longest-common-subsequence) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/IK10101/DSA-CPP/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/IK10101/DSA-CPP/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
@@ -381,6 +382,7 @@ This repository contains my Data Structures and Algorithms practice in C++.
 | [0721-accounts-merge](https://github.com/IK10101/DSA-CPP/tree/master/0721-accounts-merge) |
 | [0990-satisfiability-of-equality-equations](https://github.com/IK10101/DSA-CPP/tree/master/0990-satisfiability-of-equality-equations) |
 | [1048-longest-string-chain](https://github.com/IK10101/DSA-CPP/tree/master/1048-longest-string-chain) |
+| [1092-shortest-common-supersequence](https://github.com/IK10101/DSA-CPP/tree/master/1092-shortest-common-supersequence) |
 | [1143-longest-common-subsequence](https://github.com/IK10101/DSA-CPP/tree/master/1143-longest-common-subsequence) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/IK10101/DSA-CPP/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/IK10101/DSA-CPP/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
@@ -508,5 +510,6 @@ This repository contains my Data Structures and Algorithms practice in C++.
 ## Longest Common Subsequence
 |  |
 | ------- |
+| [1092-shortest-common-supersequence](https://github.com/IK10101/DSA-CPP/tree/master/1092-shortest-common-supersequence) |
 | [1143-longest-common-subsequence](https://github.com/IK10101/DSA-CPP/tree/master/1143-longest-common-subsequence) |
 <!---LeetCode Topics End-->
