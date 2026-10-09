@@ -165,6 +165,7 @@ This repository contains my Data Structures and Algorithms practice in C++.
 ## Dynamic Programming
 |  |
 | ------- |
+| [0044-wildcard-matching](https://github.com/IK10101/DSA-CPP/tree/master/0044-wildcard-matching) |
 | [0045-jump-game-ii](https://github.com/IK10101/DSA-CPP/tree/master/0045-jump-game-ii) |
 | [0062-unique-paths](https://github.com/IK10101/DSA-CPP/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/IK10101/DSA-CPP/tree/master/0063-unique-paths-ii) |
@@ -329,6 +330,7 @@ This repository contains my Data Structures and Algorithms practice in C++.
 ## Greedy
 |  |
 | ------- |
+| [0044-wildcard-matching](https://github.com/IK10101/DSA-CPP/tree/master/0044-wildcard-matching) |
 | [0045-jump-game-ii](https://github.com/IK10101/DSA-CPP/tree/master/0045-jump-game-ii) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/IK10101/DSA-CPP/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/IK10101/DSA-CPP/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
@@ -378,6 +380,7 @@ This repository contains my Data Structures and Algorithms practice in C++.
 ## String
 |  |
 | ------- |
+| [0044-wildcard-matching](https://github.com/IK10101/DSA-CPP/tree/master/0044-wildcard-matching) |
 | [0072-edit-distance](https://github.com/IK10101/DSA-CPP/tree/master/0072-edit-distance) |
 | [0115-distinct-subsequences](https://github.com/IK10101/DSA-CPP/tree/master/0115-distinct-subsequences) |
 | [0126-word-ladder-ii](https://github.com/IK10101/DSA-CPP/tree/master/0126-word-ladder-ii) |
@@ -516,4 +519,8 @@ This repository contains my Data Structures and Algorithms practice in C++.
 | ------- |
 | [1092-shortest-common-supersequence](https://github.com/IK10101/DSA-CPP/tree/master/1092-shortest-common-supersequence) |
 | [1143-longest-common-subsequence](https://github.com/IK10101/DSA-CPP/tree/master/1143-longest-common-subsequence) |
+## Recursion
+|  |
+| ------- |
+| [0044-wildcard-matching](https://github.com/IK10101/DSA-CPP/tree/master/0044-wildcard-matching) |
 <!---LeetCode Topics End-->
