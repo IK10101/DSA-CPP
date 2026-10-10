@@ -44,6 +44,7 @@ This repository contains my Data Structures and Algorithms practice in C++.
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/IK10101/DSA-CPP/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/IK10101/DSA-CPP/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0130-surrounded-regions](https://github.com/IK10101/DSA-CPP/tree/master/0130-surrounded-regions) |
+| [0139-word-break](https://github.com/IK10101/DSA-CPP/tree/master/0139-word-break) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/IK10101/DSA-CPP/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0198-house-robber](https://github.com/IK10101/DSA-CPP/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/IK10101/DSA-CPP/tree/master/0200-number-of-islands) |
@@ -177,6 +178,7 @@ This repository contains my Data Structures and Algorithms practice in C++.
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/IK10101/DSA-CPP/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/IK10101/DSA-CPP/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/IK10101/DSA-CPP/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
+| [0139-word-break](https://github.com/IK10101/DSA-CPP/tree/master/0139-word-break) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/IK10101/DSA-CPP/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0198-house-robber](https://github.com/IK10101/DSA-CPP/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/IK10101/DSA-CPP/tree/master/0213-house-robber-ii) |
@@ -341,6 +343,7 @@ This repository contains my Data Structures and Algorithms practice in C++.
 | [0041-first-missing-positive](https://github.com/IK10101/DSA-CPP/tree/master/0041-first-missing-positive) |
 | [0126-word-ladder-ii](https://github.com/IK10101/DSA-CPP/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/IK10101/DSA-CPP/tree/master/0127-word-ladder) |
+| [0139-word-break](https://github.com/IK10101/DSA-CPP/tree/master/0139-word-break) |
 | [0721-accounts-merge](https://github.com/IK10101/DSA-CPP/tree/master/0721-accounts-merge) |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/IK10101/DSA-CPP/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [1048-longest-string-chain](https://github.com/IK10101/DSA-CPP/tree/master/1048-longest-string-chain) |
@@ -385,6 +388,7 @@ This repository contains my Data Structures and Algorithms practice in C++.
 | [0115-distinct-subsequences](https://github.com/IK10101/DSA-CPP/tree/master/0115-distinct-subsequences) |
 | [0126-word-ladder-ii](https://github.com/IK10101/DSA-CPP/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/IK10101/DSA-CPP/tree/master/0127-word-ladder) |
+| [0139-word-break](https://github.com/IK10101/DSA-CPP/tree/master/0139-word-break) |
 | [0516-longest-palindromic-subsequence](https://github.com/IK10101/DSA-CPP/tree/master/0516-longest-palindromic-subsequence) |
 | [0721-accounts-merge](https://github.com/IK10101/DSA-CPP/tree/master/0721-accounts-merge) |
 | [0990-satisfiability-of-equality-equations](https://github.com/IK10101/DSA-CPP/tree/master/0990-satisfiability-of-equality-equations) |
@@ -462,6 +466,7 @@ This repository contains my Data Structures and Algorithms practice in C++.
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/IK10101/DSA-CPP/tree/master/0070-climbing-stairs) |
+| [0139-word-break](https://github.com/IK10101/DSA-CPP/tree/master/0139-word-break) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/IK10101/DSA-CPP/tree/master/0329-longest-increasing-path-in-a-matrix) |
 ## Combinatorics
 |  |
@@ -523,4 +528,12 @@ This repository contains my Data Structures and Algorithms practice in C++.
 |  |
 | ------- |
 | [0044-wildcard-matching](https://github.com/IK10101/DSA-CPP/tree/master/0044-wildcard-matching) |
+## Trie
+|  |
+| ------- |
+| [0139-word-break](https://github.com/IK10101/DSA-CPP/tree/master/0139-word-break) |
+## Brute-Force Search
+|  |
+| ------- |
+| [0139-word-break](https://github.com/IK10101/DSA-CPP/tree/master/0139-word-break) |
 <!---LeetCode Topics End-->
