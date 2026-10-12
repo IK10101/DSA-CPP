@@ -383,6 +383,7 @@ This repository contains my Data Structures and Algorithms practice in C++.
 ## String
 |  |
 | ------- |
+| [0038-count-and-say](https://github.com/IK10101/DSA-CPP/tree/master/0038-count-and-say) |
 | [0044-wildcard-matching](https://github.com/IK10101/DSA-CPP/tree/master/0044-wildcard-matching) |
 | [0072-edit-distance](https://github.com/IK10101/DSA-CPP/tree/master/0072-edit-distance) |
 | [0115-distinct-subsequences](https://github.com/IK10101/DSA-CPP/tree/master/0115-distinct-subsequences) |
