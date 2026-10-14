@@ -179,6 +179,7 @@ This repository contains my Data Structures and Algorithms practice in C++.
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/IK10101/DSA-CPP/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/IK10101/DSA-CPP/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/IK10101/DSA-CPP/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
+| [0132-palindrome-partitioning-ii](https://github.com/IK10101/DSA-CPP/tree/master/0132-palindrome-partitioning-ii) |
 | [0139-word-break](https://github.com/IK10101/DSA-CPP/tree/master/0139-word-break) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/IK10101/DSA-CPP/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0198-house-robber](https://github.com/IK10101/DSA-CPP/tree/master/0198-house-robber) |
@@ -391,6 +392,7 @@ This repository contains my Data Structures and Algorithms practice in C++.
 | [0115-distinct-subsequences](https://github.com/IK10101/DSA-CPP/tree/master/0115-distinct-subsequences) |
 | [0126-word-ladder-ii](https://github.com/IK10101/DSA-CPP/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/IK10101/DSA-CPP/tree/master/0127-word-ladder) |
+| [0132-palindrome-partitioning-ii](https://github.com/IK10101/DSA-CPP/tree/master/0132-palindrome-partitioning-ii) |
 | [0139-word-break](https://github.com/IK10101/DSA-CPP/tree/master/0139-word-break) |
 | [0516-longest-palindromic-subsequence](https://github.com/IK10101/DSA-CPP/tree/master/0516-longest-palindromic-subsequence) |
 | [0721-accounts-merge](https://github.com/IK10101/DSA-CPP/tree/master/0721-accounts-merge) |
