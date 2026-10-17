@@ -3,17 +3,20 @@ class Solution {
 public:
     bool predictTheWinner(vector<int>& nums) {
         int n = nums.size();
-        vector<vector<int>> dp(n, vector<int>(n, 0));
+        vector<int> prev(n, 0);
+        vector<int> curr(n, 0);
         for (int l = 0; l < n; l++) {
-            dp[l][l] = nums[l];
+            curr[l] = nums[l];
         }
         for (int l = n - 1; l >= 0; l--) {
+            curr[l] = nums[l];
             for (int r = l + 1; r < n; r++) {
-                int left = nums[l] - dp[l + 1][r];
-                int right = nums[r] - dp[l][r - 1];
-                dp[l][r] = max(left, right);
+                int left = nums[l] - prev[r];
+                int right = nums[r] - curr[r - 1];
+                curr[r] = max(left, right);
             }
+            prev = curr;
         }
-        return dp[0][n - 1] >= 0;
+        return prev[n - 1] >= 0;
     }
 };
