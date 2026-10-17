@@ -1,68 +1,49 @@
-
+struct Node {
+    Node* links[26] = {nullptr};
+    bool flag = false;
+    bool containsKey(char ch) { return links[ch - 'a'] != nullptr; }
+    void put(char ch, Node* node) { links[ch - 'a'] = node; }
+    Node* get(char ch) { return links[ch - 'a']; }
+    bool setEnd() { return flag = true; }
+    bool isEnd() { return flag; }
+};
 class Trie {
 private:
-    struct Node {
-        Node* children[26];
-        bool isEnd;
-
-        Node() {
-            for (int i = 0; i < 26; i++) {
-                children[i] = nullptr;
-            }
-            isEnd = false;
-        }
-    };
-
     Node* root;
 
 public:
-    Trie() { root = new Node(); }
+    Trie() { root = new Node; }
 
     void insert(string word) {
         Node* node = root;
-
-        for (char c : word) {
-            int idx = c - 'a';
-
-            if (node->children[idx] == nullptr) {
-                node->children[idx] = new Node();
+        for (char ch : word) {
+            if (!node->containsKey(ch)) {
+                node->put(ch, new Node());
             }
-
-            node = node->children[idx];
+            node = node->get(ch);
         }
-
-        node->isEnd = true;
+        node->setEnd();
     }
 
     bool search(string word) {
         Node* node = root;
-
-        for (char c : word) {
-            int idx = c - 'a';
-
-            if (node->children[idx] == nullptr) {
+        for (char ch : word) {
+            if (!node->containsKey(ch)) {
                 return false;
             }
-
-            node = node->children[idx];
+            node = node->get(ch);
         }
-
-        return node->isEnd;
+        return node->isEnd();
     }
 
     bool startsWith(string prefix) {
         Node* node = root;
-
-        for (char c : prefix) {
-            int idx = c - 'a';
-
-            if (node->children[idx] == nullptr) {
+        for (char ch : prefix) {
+            if (!node->containsKey(ch)) {
                 return false;
             }
-
-            node = node->children[idx];
+            node = node->get(ch);
         }
-
         return true;
     }
 };
