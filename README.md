@@ -152,6 +152,7 @@ This repository contains my Data Structures and Algorithms practice in C++.
 | ------- |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/IK10101/DSA-CPP/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0086-partition-list](https://github.com/IK10101/DSA-CPP/tree/master/0086-partition-list) |
+| [0647-palindromic-substrings](https://github.com/IK10101/DSA-CPP/tree/master/0647-palindromic-substrings) |
 | [1048-longest-string-chain](https://github.com/IK10101/DSA-CPP/tree/master/1048-longest-string-chain) |
 ## Prefix Sum
 |  |
@@ -203,6 +204,7 @@ This repository contains my Data Structures and Algorithms practice in C++.
 | [0516-longest-palindromic-subsequence](https://github.com/IK10101/DSA-CPP/tree/master/0516-longest-palindromic-subsequence) |
 | [0518-coin-change-ii](https://github.com/IK10101/DSA-CPP/tree/master/0518-coin-change-ii) |
 | [0542-01-matrix](https://github.com/IK10101/DSA-CPP/tree/master/0542-01-matrix) |
+| [0647-palindromic-substrings](https://github.com/IK10101/DSA-CPP/tree/master/0647-palindromic-substrings) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/IK10101/DSA-CPP/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/IK10101/DSA-CPP/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0746-min-cost-climbing-stairs](https://github.com/IK10101/DSA-CPP/tree/master/0746-min-cost-climbing-stairs) |
@@ -409,6 +411,7 @@ This repository contains my Data Structures and Algorithms practice in C++.
 | [0139-word-break](https://github.com/IK10101/DSA-CPP/tree/master/0139-word-break) |
 | [0208-implement-trie-prefix-tree](https://github.com/IK10101/DSA-CPP/tree/master/0208-implement-trie-prefix-tree) |
 | [0516-longest-palindromic-subsequence](https://github.com/IK10101/DSA-CPP/tree/master/0516-longest-palindromic-subsequence) |
+| [0647-palindromic-substrings](https://github.com/IK10101/DSA-CPP/tree/master/0647-palindromic-substrings) |
 | [0721-accounts-merge](https://github.com/IK10101/DSA-CPP/tree/master/0721-accounts-merge) |
 | [0990-satisfiability-of-equality-equations](https://github.com/IK10101/DSA-CPP/tree/master/0990-satisfiability-of-equality-equations) |
 | [1048-longest-string-chain](https://github.com/IK10101/DSA-CPP/tree/master/1048-longest-string-chain) |
