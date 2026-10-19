@@ -105,6 +105,7 @@ This repository contains my Data Structures and Algorithms practice in C++.
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/IK10101/DSA-CPP/tree/master/0023-merge-k-sorted-lists) |
 | [0215-kth-largest-element-in-an-array](https://github.com/IK10101/DSA-CPP/tree/master/0215-kth-largest-element-in-an-array) |
+| [0264-ugly-number-ii](https://github.com/IK10101/DSA-CPP/tree/master/0264-ugly-number-ii) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/IK10101/DSA-CPP/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0743-network-delay-time](https://github.com/IK10101/DSA-CPP/tree/master/0743-network-delay-time) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/IK10101/DSA-CPP/tree/master/0787-cheapest-flights-within-k-stops) |
@@ -163,6 +164,7 @@ This repository contains my Data Structures and Algorithms practice in C++.
 | ------- |
 | [0062-unique-paths](https://github.com/IK10101/DSA-CPP/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/IK10101/DSA-CPP/tree/master/0070-climbing-stairs) |
+| [0264-ugly-number-ii](https://github.com/IK10101/DSA-CPP/tree/master/0264-ugly-number-ii) |
 | [0279-perfect-squares](https://github.com/IK10101/DSA-CPP/tree/master/0279-perfect-squares) |
 | [0368-largest-divisible-subset](https://github.com/IK10101/DSA-CPP/tree/master/0368-largest-divisible-subset) |
 | [0486-predict-the-winner](https://github.com/IK10101/DSA-CPP/tree/master/0486-predict-the-winner) |
@@ -191,6 +193,7 @@ This repository contains my Data Structures and Algorithms practice in C++.
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/IK10101/DSA-CPP/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0198-house-robber](https://github.com/IK10101/DSA-CPP/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/IK10101/DSA-CPP/tree/master/0213-house-robber-ii) |
+| [0264-ugly-number-ii](https://github.com/IK10101/DSA-CPP/tree/master/0264-ugly-number-ii) |
 | [0279-perfect-squares](https://github.com/IK10101/DSA-CPP/tree/master/0279-perfect-squares) |
 | [0300-longest-increasing-subsequence](https://github.com/IK10101/DSA-CPP/tree/master/0300-longest-increasing-subsequence) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/IK10101/DSA-CPP/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
@@ -362,6 +365,7 @@ This repository contains my Data Structures and Algorithms practice in C++.
 | [0127-word-ladder](https://github.com/IK10101/DSA-CPP/tree/master/0127-word-ladder) |
 | [0139-word-break](https://github.com/IK10101/DSA-CPP/tree/master/0139-word-break) |
 | [0208-implement-trie-prefix-tree](https://github.com/IK10101/DSA-CPP/tree/master/0208-implement-trie-prefix-tree) |
+| [0264-ugly-number-ii](https://github.com/IK10101/DSA-CPP/tree/master/0264-ugly-number-ii) |
 | [0721-accounts-merge](https://github.com/IK10101/DSA-CPP/tree/master/0721-accounts-merge) |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/IK10101/DSA-CPP/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [1048-longest-string-chain](https://github.com/IK10101/DSA-CPP/tree/master/1048-longest-string-chain) |
