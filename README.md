@@ -54,6 +54,7 @@ This repository contains my Data Structures and Algorithms practice in C++.
 | [0300-longest-increasing-subsequence](https://github.com/IK10101/DSA-CPP/tree/master/0300-longest-increasing-subsequence) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/IK10101/DSA-CPP/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0312-burst-balloons](https://github.com/IK10101/DSA-CPP/tree/master/0312-burst-balloons) |
+| [0313-super-ugly-number](https://github.com/IK10101/DSA-CPP/tree/master/0313-super-ugly-number) |
 | [0322-coin-change](https://github.com/IK10101/DSA-CPP/tree/master/0322-coin-change) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/IK10101/DSA-CPP/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0368-largest-divisible-subset](https://github.com/IK10101/DSA-CPP/tree/master/0368-largest-divisible-subset) |
@@ -166,6 +167,7 @@ This repository contains my Data Structures and Algorithms practice in C++.
 | [0070-climbing-stairs](https://github.com/IK10101/DSA-CPP/tree/master/0070-climbing-stairs) |
 | [0264-ugly-number-ii](https://github.com/IK10101/DSA-CPP/tree/master/0264-ugly-number-ii) |
 | [0279-perfect-squares](https://github.com/IK10101/DSA-CPP/tree/master/0279-perfect-squares) |
+| [0313-super-ugly-number](https://github.com/IK10101/DSA-CPP/tree/master/0313-super-ugly-number) |
 | [0368-largest-divisible-subset](https://github.com/IK10101/DSA-CPP/tree/master/0368-largest-divisible-subset) |
 | [0486-predict-the-winner](https://github.com/IK10101/DSA-CPP/tree/master/0486-predict-the-winner) |
 | [0836-rectangle-overlap](https://github.com/IK10101/DSA-CPP/tree/master/0836-rectangle-overlap) |
@@ -198,6 +200,7 @@ This repository contains my Data Structures and Algorithms practice in C++.
 | [0300-longest-increasing-subsequence](https://github.com/IK10101/DSA-CPP/tree/master/0300-longest-increasing-subsequence) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/IK10101/DSA-CPP/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0312-burst-balloons](https://github.com/IK10101/DSA-CPP/tree/master/0312-burst-balloons) |
+| [0313-super-ugly-number](https://github.com/IK10101/DSA-CPP/tree/master/0313-super-ugly-number) |
 | [0322-coin-change](https://github.com/IK10101/DSA-CPP/tree/master/0322-coin-change) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/IK10101/DSA-CPP/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0368-largest-divisible-subset](https://github.com/IK10101/DSA-CPP/tree/master/0368-largest-divisible-subset) |
