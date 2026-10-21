@@ -118,6 +118,7 @@ This repository contains my Data Structures and Algorithms practice in C++.
 ## Tree
 |  |
 | ------- |
+| [0096-unique-binary-search-trees](https://github.com/IK10101/DSA-CPP/tree/master/0096-unique-binary-search-trees) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/IK10101/DSA-CPP/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/IK10101/DSA-CPP/tree/master/0703-kth-largest-element-in-a-stream) |
 ## Design
@@ -129,6 +130,7 @@ This repository contains my Data Structures and Algorithms practice in C++.
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/IK10101/DSA-CPP/tree/master/0033-search-in-rotated-sorted-array) |
+| [0096-unique-binary-search-trees](https://github.com/IK10101/DSA-CPP/tree/master/0096-unique-binary-search-trees) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/IK10101/DSA-CPP/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0300-longest-increasing-subsequence](https://github.com/IK10101/DSA-CPP/tree/master/0300-longest-increasing-subsequence) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/IK10101/DSA-CPP/tree/master/0703-kth-largest-element-in-a-stream) |
@@ -137,6 +139,7 @@ This repository contains my Data Structures and Algorithms practice in C++.
 ## Binary Tree
 |  |
 | ------- |
+| [0096-unique-binary-search-trees](https://github.com/IK10101/DSA-CPP/tree/master/0096-unique-binary-search-trees) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/IK10101/DSA-CPP/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/IK10101/DSA-CPP/tree/master/0703-kth-largest-element-in-a-stream) |
 ## Data Stream
@@ -165,6 +168,7 @@ This repository contains my Data Structures and Algorithms practice in C++.
 | ------- |
 | [0062-unique-paths](https://github.com/IK10101/DSA-CPP/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/IK10101/DSA-CPP/tree/master/0070-climbing-stairs) |
+| [0096-unique-binary-search-trees](https://github.com/IK10101/DSA-CPP/tree/master/0096-unique-binary-search-trees) |
 | [0264-ugly-number-ii](https://github.com/IK10101/DSA-CPP/tree/master/0264-ugly-number-ii) |
 | [0279-perfect-squares](https://github.com/IK10101/DSA-CPP/tree/master/0279-perfect-squares) |
 | [0313-super-ugly-number](https://github.com/IK10101/DSA-CPP/tree/master/0313-super-ugly-number) |
@@ -185,6 +189,7 @@ This repository contains my Data Structures and Algorithms practice in C++.
 | [0064-minimum-path-sum](https://github.com/IK10101/DSA-CPP/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/IK10101/DSA-CPP/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/IK10101/DSA-CPP/tree/master/0072-edit-distance) |
+| [0096-unique-binary-search-trees](https://github.com/IK10101/DSA-CPP/tree/master/0096-unique-binary-search-trees) |
 | [0115-distinct-subsequences](https://github.com/IK10101/DSA-CPP/tree/master/0115-distinct-subsequences) |
 | [0120-triangle](https://github.com/IK10101/DSA-CPP/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/IK10101/DSA-CPP/tree/master/0121-best-time-to-buy-and-sell-stock) |
