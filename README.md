@@ -36,6 +36,7 @@ This repository contains my Data Structures and Algorithms practice in C++.
 | [0033-search-in-rotated-sorted-array](https://github.com/IK10101/DSA-CPP/tree/master/0033-search-in-rotated-sorted-array) |
 | [0041-first-missing-positive](https://github.com/IK10101/DSA-CPP/tree/master/0041-first-missing-positive) |
 | [0045-jump-game-ii](https://github.com/IK10101/DSA-CPP/tree/master/0045-jump-game-ii) |
+| [0049-group-anagrams](https://github.com/IK10101/DSA-CPP/tree/master/0049-group-anagrams) |
 | [0063-unique-paths-ii](https://github.com/IK10101/DSA-CPP/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/IK10101/DSA-CPP/tree/master/0064-minimum-path-sum) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/IK10101/DSA-CPP/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
@@ -96,6 +97,7 @@ This repository contains my Data Structures and Algorithms practice in C++.
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/IK10101/DSA-CPP/tree/master/0049-group-anagrams) |
 | [0215-kth-largest-element-in-an-array](https://github.com/IK10101/DSA-CPP/tree/master/0215-kth-largest-element-in-an-array) |
 | [0368-largest-divisible-subset](https://github.com/IK10101/DSA-CPP/tree/master/0368-largest-divisible-subset) |
 | [0721-accounts-merge](https://github.com/IK10101/DSA-CPP/tree/master/0721-accounts-merge) |
@@ -372,6 +374,7 @@ This repository contains my Data Structures and Algorithms practice in C++.
 |  |
 | ------- |
 | [0041-first-missing-positive](https://github.com/IK10101/DSA-CPP/tree/master/0041-first-missing-positive) |
+| [0049-group-anagrams](https://github.com/IK10101/DSA-CPP/tree/master/0049-group-anagrams) |
 | [0126-word-ladder-ii](https://github.com/IK10101/DSA-CPP/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/IK10101/DSA-CPP/tree/master/0127-word-ladder) |
 | [0139-word-break](https://github.com/IK10101/DSA-CPP/tree/master/0139-word-break) |
@@ -418,6 +421,7 @@ This repository contains my Data Structures and Algorithms practice in C++.
 | ------- |
 | [0038-count-and-say](https://github.com/IK10101/DSA-CPP/tree/master/0038-count-and-say) |
 | [0044-wildcard-matching](https://github.com/IK10101/DSA-CPP/tree/master/0044-wildcard-matching) |
+| [0049-group-anagrams](https://github.com/IK10101/DSA-CPP/tree/master/0049-group-anagrams) |
 | [0072-edit-distance](https://github.com/IK10101/DSA-CPP/tree/master/0072-edit-distance) |
 | [0115-distinct-subsequences](https://github.com/IK10101/DSA-CPP/tree/master/0115-distinct-subsequences) |
 | [0126-word-ladder-ii](https://github.com/IK10101/DSA-CPP/tree/master/0126-word-ladder-ii) |
