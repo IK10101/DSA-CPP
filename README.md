@@ -65,6 +65,7 @@ This repository contains my Data Structures and Algorithms practice in C++.
 | [0494-target-sum](https://github.com/IK10101/DSA-CPP/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/IK10101/DSA-CPP/tree/master/0518-coin-change-ii) |
 | [0542-01-matrix](https://github.com/IK10101/DSA-CPP/tree/master/0542-01-matrix) |
+| [0646-maximum-length-of-pair-chain](https://github.com/IK10101/DSA-CPP/tree/master/0646-maximum-length-of-pair-chain) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/IK10101/DSA-CPP/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/IK10101/DSA-CPP/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0721-accounts-merge](https://github.com/IK10101/DSA-CPP/tree/master/0721-accounts-merge) |
@@ -100,6 +101,7 @@ This repository contains my Data Structures and Algorithms practice in C++.
 | [0049-group-anagrams](https://github.com/IK10101/DSA-CPP/tree/master/0049-group-anagrams) |
 | [0215-kth-largest-element-in-an-array](https://github.com/IK10101/DSA-CPP/tree/master/0215-kth-largest-element-in-an-array) |
 | [0368-largest-divisible-subset](https://github.com/IK10101/DSA-CPP/tree/master/0368-largest-divisible-subset) |
+| [0646-maximum-length-of-pair-chain](https://github.com/IK10101/DSA-CPP/tree/master/0646-maximum-length-of-pair-chain) |
 | [0721-accounts-merge](https://github.com/IK10101/DSA-CPP/tree/master/0721-accounts-merge) |
 | [1048-longest-string-chain](https://github.com/IK10101/DSA-CPP/tree/master/1048-longest-string-chain) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/IK10101/DSA-CPP/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
@@ -220,6 +222,7 @@ This repository contains my Data Structures and Algorithms practice in C++.
 | [0516-longest-palindromic-subsequence](https://github.com/IK10101/DSA-CPP/tree/master/0516-longest-palindromic-subsequence) |
 | [0518-coin-change-ii](https://github.com/IK10101/DSA-CPP/tree/master/0518-coin-change-ii) |
 | [0542-01-matrix](https://github.com/IK10101/DSA-CPP/tree/master/0542-01-matrix) |
+| [0646-maximum-length-of-pair-chain](https://github.com/IK10101/DSA-CPP/tree/master/0646-maximum-length-of-pair-chain) |
 | [0647-palindromic-substrings](https://github.com/IK10101/DSA-CPP/tree/master/0647-palindromic-substrings) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/IK10101/DSA-CPP/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/IK10101/DSA-CPP/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
@@ -371,6 +374,7 @@ This repository contains my Data Structures and Algorithms practice in C++.
 | [0044-wildcard-matching](https://github.com/IK10101/DSA-CPP/tree/master/0044-wildcard-matching) |
 | [0045-jump-game-ii](https://github.com/IK10101/DSA-CPP/tree/master/0045-jump-game-ii) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/IK10101/DSA-CPP/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0646-maximum-length-of-pair-chain](https://github.com/IK10101/DSA-CPP/tree/master/0646-maximum-length-of-pair-chain) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/IK10101/DSA-CPP/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/IK10101/DSA-CPP/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 ## Hash Table
@@ -557,6 +561,7 @@ This repository contains my Data Structures and Algorithms practice in C++.
 |  |
 | ------- |
 | [0300-longest-increasing-subsequence](https://github.com/IK10101/DSA-CPP/tree/master/0300-longest-increasing-subsequence) |
+| [0646-maximum-length-of-pair-chain](https://github.com/IK10101/DSA-CPP/tree/master/0646-maximum-length-of-pair-chain) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/IK10101/DSA-CPP/tree/master/0673-number-of-longest-increasing-subsequence) |
 ## Binary Indexed Tree
 |  |
