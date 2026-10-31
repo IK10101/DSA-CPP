@@ -89,6 +89,7 @@ This repository contains my Data Structures and Algorithms practice in C++.
 | [2059-minimum-operations-to-convert-number](https://github.com/IK10101/DSA-CPP/tree/master/2059-minimum-operations-to-convert-number) |
 | [3524-find-x-value-of-array-i](https://github.com/IK10101/DSA-CPP/tree/master/3524-find-x-value-of-array-i) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/IK10101/DSA-CPP/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
+| [3665-twisted-mirror-path-count](https://github.com/IK10101/DSA-CPP/tree/master/3665-twisted-mirror-path-count) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -242,6 +243,7 @@ This repository contains my Data Structures and Algorithms practice in C++.
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/IK10101/DSA-CPP/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/IK10101/DSA-CPP/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 | [3524-find-x-value-of-array-i](https://github.com/IK10101/DSA-CPP/tree/master/3524-find-x-value-of-array-i) |
+| [3665-twisted-mirror-path-count](https://github.com/IK10101/DSA-CPP/tree/master/3665-twisted-mirror-path-count) |
 ## Minimax
 |  |
 | ------- |
@@ -368,6 +370,7 @@ This repository contains my Data Structures and Algorithms practice in C++.
 | [1091-shortest-path-in-binary-matrix](https://github.com/IK10101/DSA-CPP/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1463-cherry-pickup-ii](https://github.com/IK10101/DSA-CPP/tree/master/1463-cherry-pickup-ii) |
 | [1631-path-with-minimum-effort](https://github.com/IK10101/DSA-CPP/tree/master/1631-path-with-minimum-effort) |
+| [3665-twisted-mirror-path-count](https://github.com/IK10101/DSA-CPP/tree/master/3665-twisted-mirror-path-count) |
 ## Greedy
 |  |
 | ------- |
