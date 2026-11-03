@@ -92,6 +92,7 @@ This repository contains my Data Structures and Algorithms practice in C++.
 | [3524-find-x-value-of-array-i](https://github.com/IK10101/DSA-CPP/tree/master/3524-find-x-value-of-array-i) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/IK10101/DSA-CPP/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3665-twisted-mirror-path-count](https://github.com/IK10101/DSA-CPP/tree/master/3665-twisted-mirror-path-count) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/IK10101/DSA-CPP/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -192,6 +193,7 @@ This repository contains my Data Structures and Algorithms practice in C++.
 | [1401-circle-and-rectangle-overlapping](https://github.com/IK10101/DSA-CPP/tree/master/1401-circle-and-rectangle-overlapping) |
 | [3524-find-x-value-of-array-i](https://github.com/IK10101/DSA-CPP/tree/master/3524-find-x-value-of-array-i) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/IK10101/DSA-CPP/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/IK10101/DSA-CPP/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 ## Dynamic Programming
 |  |
 | ------- |
