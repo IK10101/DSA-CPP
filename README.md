@@ -89,6 +89,7 @@ This repository contains my Data Structures and Algorithms practice in C++.
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/IK10101/DSA-CPP/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [1584-min-cost-to-connect-all-points](https://github.com/IK10101/DSA-CPP/tree/master/1584-min-cost-to-connect-all-points) |
 | [1631-path-with-minimum-effort](https://github.com/IK10101/DSA-CPP/tree/master/1631-path-with-minimum-effort) |
+| [1707-maximum-xor-with-an-element-from-array](https://github.com/IK10101/DSA-CPP/tree/master/1707-maximum-xor-with-an-element-from-array) |
 | [2059-minimum-operations-to-convert-number](https://github.com/IK10101/DSA-CPP/tree/master/2059-minimum-operations-to-convert-number) |
 | [3524-find-x-value-of-array-i](https://github.com/IK10101/DSA-CPP/tree/master/3524-find-x-value-of-array-i) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/IK10101/DSA-CPP/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
@@ -599,6 +600,7 @@ This repository contains my Data Structures and Algorithms practice in C++.
 | [0139-word-break](https://github.com/IK10101/DSA-CPP/tree/master/0139-word-break) |
 | [0208-implement-trie-prefix-tree](https://github.com/IK10101/DSA-CPP/tree/master/0208-implement-trie-prefix-tree) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/IK10101/DSA-CPP/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
+| [1707-maximum-xor-with-an-element-from-array](https://github.com/IK10101/DSA-CPP/tree/master/1707-maximum-xor-with-an-element-from-array) |
 ## Brute-Force Search
 |  |
 | ------- |
@@ -607,4 +609,5 @@ This repository contains my Data Structures and Algorithms practice in C++.
 |  |
 | ------- |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/IK10101/DSA-CPP/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
+| [1707-maximum-xor-with-an-element-from-array](https://github.com/IK10101/DSA-CPP/tree/master/1707-maximum-xor-with-an-element-from-array) |
 <!---LeetCode Topics End-->
