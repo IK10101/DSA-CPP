@@ -91,6 +91,7 @@ This repository contains my Data Structures and Algorithms practice in C++.
 | [1631-path-with-minimum-effort](https://github.com/IK10101/DSA-CPP/tree/master/1631-path-with-minimum-effort) |
 | [1707-maximum-xor-with-an-element-from-array](https://github.com/IK10101/DSA-CPP/tree/master/1707-maximum-xor-with-an-element-from-array) |
 | [2059-minimum-operations-to-convert-number](https://github.com/IK10101/DSA-CPP/tree/master/2059-minimum-operations-to-convert-number) |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/IK10101/DSA-CPP/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3524-find-x-value-of-array-i](https://github.com/IK10101/DSA-CPP/tree/master/3524-find-x-value-of-array-i) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/IK10101/DSA-CPP/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3665-twisted-mirror-path-count](https://github.com/IK10101/DSA-CPP/tree/master/3665-twisted-mirror-path-count) |
@@ -123,6 +124,7 @@ This repository contains my Data Structures and Algorithms practice in C++.
 | [0743-network-delay-time](https://github.com/IK10101/DSA-CPP/tree/master/0743-network-delay-time) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/IK10101/DSA-CPP/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1631-path-with-minimum-effort](https://github.com/IK10101/DSA-CPP/tree/master/1631-path-with-minimum-effort) |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/IK10101/DSA-CPP/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 ## Quickselect
 |  |
 | ------- |
@@ -193,6 +195,7 @@ This repository contains my Data Structures and Algorithms practice in C++.
 | [0836-rectangle-overlap](https://github.com/IK10101/DSA-CPP/tree/master/0836-rectangle-overlap) |
 | [0877-stone-game](https://github.com/IK10101/DSA-CPP/tree/master/0877-stone-game) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/IK10101/DSA-CPP/tree/master/1401-circle-and-rectangle-overlapping) |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/IK10101/DSA-CPP/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3524-find-x-value-of-array-i](https://github.com/IK10101/DSA-CPP/tree/master/3524-find-x-value-of-array-i) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/IK10101/DSA-CPP/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/IK10101/DSA-CPP/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
@@ -251,6 +254,7 @@ This repository contains my Data Structures and Algorithms practice in C++.
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/IK10101/DSA-CPP/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/IK10101/DSA-CPP/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/IK10101/DSA-CPP/tree/master/1976-number-of-ways-to-arrive-at-destination) |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/IK10101/DSA-CPP/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3524-find-x-value-of-array-i](https://github.com/IK10101/DSA-CPP/tree/master/3524-find-x-value-of-array-i) |
 | [3665-twisted-mirror-path-count](https://github.com/IK10101/DSA-CPP/tree/master/3665-twisted-mirror-path-count) |
 ## Minimax
@@ -406,6 +410,7 @@ This repository contains my Data Structures and Algorithms practice in C++.
 | [1048-longest-string-chain](https://github.com/IK10101/DSA-CPP/tree/master/1048-longest-string-chain) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/IK10101/DSA-CPP/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/IK10101/DSA-CPP/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/IK10101/DSA-CPP/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 ## Graph Coloring
 |  |
 | ------- |
@@ -545,6 +550,7 @@ This repository contains my Data Structures and Algorithms practice in C++.
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/IK10101/DSA-CPP/tree/master/0209-minimum-size-subarray-sum) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/IK10101/DSA-CPP/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/IK10101/DSA-CPP/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 ## Simulation
 |  |
 | ------- |
