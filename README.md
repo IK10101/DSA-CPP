@@ -84,6 +84,7 @@ This repository contains my Data Structures and Algorithms practice in C++.
 | [1048-longest-string-chain](https://github.com/IK10101/DSA-CPP/tree/master/1048-longest-string-chain) |
 | [1049-last-stone-weight-ii](https://github.com/IK10101/DSA-CPP/tree/master/1049-last-stone-weight-ii) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/IK10101/DSA-CPP/tree/master/1091-shortest-path-in-binary-matrix) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/IK10101/DSA-CPP/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1463-cherry-pickup-ii](https://github.com/IK10101/DSA-CPP/tree/master/1463-cherry-pickup-ii) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/IK10101/DSA-CPP/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/IK10101/DSA-CPP/tree/master/1547-minimum-cost-to-cut-a-stick) |
@@ -112,6 +113,7 @@ This repository contains my Data Structures and Algorithms practice in C++.
 | [0646-maximum-length-of-pair-chain](https://github.com/IK10101/DSA-CPP/tree/master/0646-maximum-length-of-pair-chain) |
 | [0721-accounts-merge](https://github.com/IK10101/DSA-CPP/tree/master/0721-accounts-merge) |
 | [1048-longest-string-chain](https://github.com/IK10101/DSA-CPP/tree/master/1048-longest-string-chain) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/IK10101/DSA-CPP/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/IK10101/DSA-CPP/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/IK10101/DSA-CPP/tree/master/1547-minimum-cost-to-cut-a-stick) |
 ## Heap (Priority Queue)
@@ -149,6 +151,7 @@ This repository contains my Data Structures and Algorithms practice in C++.
 | [0209-minimum-size-subarray-sum](https://github.com/IK10101/DSA-CPP/tree/master/0209-minimum-size-subarray-sum) |
 | [0300-longest-increasing-subsequence](https://github.com/IK10101/DSA-CPP/tree/master/0300-longest-increasing-subsequence) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/IK10101/DSA-CPP/tree/master/0703-kth-largest-element-in-a-stream) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/IK10101/DSA-CPP/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/IK10101/DSA-CPP/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1631-path-with-minimum-effort](https://github.com/IK10101/DSA-CPP/tree/master/1631-path-with-minimum-effort) |
 ## Binary Tree
@@ -174,6 +177,7 @@ This repository contains my Data Structures and Algorithms practice in C++.
 | [0086-partition-list](https://github.com/IK10101/DSA-CPP/tree/master/0086-partition-list) |
 | [0647-palindromic-substrings](https://github.com/IK10101/DSA-CPP/tree/master/0647-palindromic-substrings) |
 | [1048-longest-string-chain](https://github.com/IK10101/DSA-CPP/tree/master/1048-longest-string-chain) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/IK10101/DSA-CPP/tree/master/1385-find-the-distance-value-between-two-arrays) |
 ## Prefix Sum
 |  |
 | ------- |
