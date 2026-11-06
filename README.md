@@ -49,6 +49,7 @@ This repository contains my Data Structures and Algorithms practice in C++.
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/IK10101/DSA-CPP/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0198-house-robber](https://github.com/IK10101/DSA-CPP/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/IK10101/DSA-CPP/tree/master/0200-number-of-islands) |
+| [0204-count-primes](https://github.com/IK10101/DSA-CPP/tree/master/0204-count-primes) |
 | [0209-minimum-size-subarray-sum](https://github.com/IK10101/DSA-CPP/tree/master/0209-minimum-size-subarray-sum) |
 | [0213-house-robber-ii](https://github.com/IK10101/DSA-CPP/tree/master/0213-house-robber-ii) |
 | [0215-kth-largest-element-in-an-array](https://github.com/IK10101/DSA-CPP/tree/master/0215-kth-largest-element-in-an-array) |
@@ -189,6 +190,7 @@ This repository contains my Data Structures and Algorithms practice in C++.
 | [0062-unique-paths](https://github.com/IK10101/DSA-CPP/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/IK10101/DSA-CPP/tree/master/0070-climbing-stairs) |
 | [0096-unique-binary-search-trees](https://github.com/IK10101/DSA-CPP/tree/master/0096-unique-binary-search-trees) |
+| [0204-count-primes](https://github.com/IK10101/DSA-CPP/tree/master/0204-count-primes) |
 | [0264-ugly-number-ii](https://github.com/IK10101/DSA-CPP/tree/master/0264-ugly-number-ii) |
 | [0279-perfect-squares](https://github.com/IK10101/DSA-CPP/tree/master/0279-perfect-squares) |
 | [0313-super-ugly-number](https://github.com/IK10101/DSA-CPP/tree/master/0313-super-ugly-number) |
@@ -620,4 +622,24 @@ This repository contains my Data Structures and Algorithms practice in C++.
 | ------- |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/IK10101/DSA-CPP/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [1707-maximum-xor-with-an-element-from-array](https://github.com/IK10101/DSA-CPP/tree/master/1707-maximum-xor-with-an-element-from-array) |
+## Enumeration
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/IK10101/DSA-CPP/tree/master/0204-count-primes) |
+## Number Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/IK10101/DSA-CPP/tree/master/0204-count-primes) |
+## Primality Test
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/IK10101/DSA-CPP/tree/master/0204-count-primes) |
+## Sieve Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/IK10101/DSA-CPP/tree/master/0204-count-primes) |
+## Prime Number Sieve
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/IK10101/DSA-CPP/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
