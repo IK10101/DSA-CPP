@@ -85,6 +85,7 @@ This repository contains my Data Structures and Algorithms practice in C++.
 | [1048-longest-string-chain](https://github.com/IK10101/DSA-CPP/tree/master/1048-longest-string-chain) |
 | [1049-last-stone-weight-ii](https://github.com/IK10101/DSA-CPP/tree/master/1049-last-stone-weight-ii) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/IK10101/DSA-CPP/tree/master/1091-shortest-path-in-binary-matrix) |
+| [1267-count-servers-that-communicate](https://github.com/IK10101/DSA-CPP/tree/master/1267-count-servers-that-communicate) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/IK10101/DSA-CPP/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1463-cherry-pickup-ii](https://github.com/IK10101/DSA-CPP/tree/master/1463-cherry-pickup-ii) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/IK10101/DSA-CPP/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
@@ -305,6 +306,7 @@ This repository contains my Data Structures and Algorithms practice in C++.
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/IK10101/DSA-CPP/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [1020-number-of-enclaves](https://github.com/IK10101/DSA-CPP/tree/master/1020-number-of-enclaves) |
 | [1192-critical-connections-in-a-network](https://github.com/IK10101/DSA-CPP/tree/master/1192-critical-connections-in-a-network) |
+| [1267-count-servers-that-communicate](https://github.com/IK10101/DSA-CPP/tree/master/1267-count-servers-that-communicate) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/IK10101/DSA-CPP/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1631-path-with-minimum-effort](https://github.com/IK10101/DSA-CPP/tree/master/1631-path-with-minimum-effort) |
 ## Breadth-First Search
@@ -335,6 +337,7 @@ This repository contains my Data Structures and Algorithms practice in C++.
 | [0994-rotting-oranges](https://github.com/IK10101/DSA-CPP/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/IK10101/DSA-CPP/tree/master/1020-number-of-enclaves) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/IK10101/DSA-CPP/tree/master/1091-shortest-path-in-binary-matrix) |
+| [1267-count-servers-that-communicate](https://github.com/IK10101/DSA-CPP/tree/master/1267-count-servers-that-communicate) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/IK10101/DSA-CPP/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1631-path-with-minimum-effort](https://github.com/IK10101/DSA-CPP/tree/master/1631-path-with-minimum-effort) |
 | [2059-minimum-operations-to-convert-number](https://github.com/IK10101/DSA-CPP/tree/master/2059-minimum-operations-to-convert-number) |
@@ -351,6 +354,7 @@ This repository contains my Data Structures and Algorithms practice in C++.
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/IK10101/DSA-CPP/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [0990-satisfiability-of-equality-equations](https://github.com/IK10101/DSA-CPP/tree/master/0990-satisfiability-of-equality-equations) |
 | [1020-number-of-enclaves](https://github.com/IK10101/DSA-CPP/tree/master/1020-number-of-enclaves) |
+| [1267-count-servers-that-communicate](https://github.com/IK10101/DSA-CPP/tree/master/1267-count-servers-that-communicate) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/IK10101/DSA-CPP/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1584-min-cost-to-connect-all-points](https://github.com/IK10101/DSA-CPP/tree/master/1584-min-cost-to-connect-all-points) |
 | [1631-path-with-minimum-effort](https://github.com/IK10101/DSA-CPP/tree/master/1631-path-with-minimum-effort) |
@@ -391,6 +395,7 @@ This repository contains my Data Structures and Algorithms practice in C++.
 | [0994-rotting-oranges](https://github.com/IK10101/DSA-CPP/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/IK10101/DSA-CPP/tree/master/1020-number-of-enclaves) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/IK10101/DSA-CPP/tree/master/1091-shortest-path-in-binary-matrix) |
+| [1267-count-servers-that-communicate](https://github.com/IK10101/DSA-CPP/tree/master/1267-count-servers-that-communicate) |
 | [1463-cherry-pickup-ii](https://github.com/IK10101/DSA-CPP/tree/master/1463-cherry-pickup-ii) |
 | [1631-path-with-minimum-effort](https://github.com/IK10101/DSA-CPP/tree/master/1631-path-with-minimum-effort) |
 | [3665-twisted-mirror-path-count](https://github.com/IK10101/DSA-CPP/tree/master/3665-twisted-mirror-path-count) |
@@ -648,4 +653,8 @@ This repository contains my Data Structures and Algorithms practice in C++.
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/IK10101/DSA-CPP/tree/master/0204-count-primes) |
+## Counting
+|  |
+| ------- |
+| [1267-count-servers-that-communicate](https://github.com/IK10101/DSA-CPP/tree/master/1267-count-servers-that-communicate) |
 <!---LeetCode Topics End-->
