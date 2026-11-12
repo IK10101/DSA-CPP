@@ -47,6 +47,7 @@ This repository contains my Data Structures and Algorithms practice in C++.
 | [0130-surrounded-regions](https://github.com/IK10101/DSA-CPP/tree/master/0130-surrounded-regions) |
 | [0139-word-break](https://github.com/IK10101/DSA-CPP/tree/master/0139-word-break) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/IK10101/DSA-CPP/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
+| [0189-rotate-array](https://github.com/IK10101/DSA-CPP/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/IK10101/DSA-CPP/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/IK10101/DSA-CPP/tree/master/0200-number-of-islands) |
 | [0204-count-primes](https://github.com/IK10101/DSA-CPP/tree/master/0204-count-primes) |
@@ -185,6 +186,7 @@ This repository contains my Data Structures and Algorithms practice in C++.
 | ------- |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/IK10101/DSA-CPP/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0086-partition-list](https://github.com/IK10101/DSA-CPP/tree/master/0086-partition-list) |
+| [0189-rotate-array](https://github.com/IK10101/DSA-CPP/tree/master/0189-rotate-array) |
 | [0647-palindromic-substrings](https://github.com/IK10101/DSA-CPP/tree/master/0647-palindromic-substrings) |
 | [1048-longest-string-chain](https://github.com/IK10101/DSA-CPP/tree/master/1048-longest-string-chain) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/IK10101/DSA-CPP/tree/master/1385-find-the-distance-value-between-two-arrays) |
@@ -200,6 +202,7 @@ This repository contains my Data Structures and Algorithms practice in C++.
 | [0062-unique-paths](https://github.com/IK10101/DSA-CPP/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/IK10101/DSA-CPP/tree/master/0070-climbing-stairs) |
 | [0096-unique-binary-search-trees](https://github.com/IK10101/DSA-CPP/tree/master/0096-unique-binary-search-trees) |
+| [0189-rotate-array](https://github.com/IK10101/DSA-CPP/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/IK10101/DSA-CPP/tree/master/0204-count-primes) |
 | [0264-ugly-number-ii](https://github.com/IK10101/DSA-CPP/tree/master/0264-ugly-number-ii) |
 | [0279-perfect-squares](https://github.com/IK10101/DSA-CPP/tree/master/0279-perfect-squares) |
