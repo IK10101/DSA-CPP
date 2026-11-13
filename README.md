@@ -76,6 +76,7 @@ This repository contains my Data Structures and Algorithms practice in C++.
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/IK10101/DSA-CPP/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0721-accounts-merge](https://github.com/IK10101/DSA-CPP/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/IK10101/DSA-CPP/tree/master/0733-flood-fill) |
+| [0739-daily-temperatures](https://github.com/IK10101/DSA-CPP/tree/master/0739-daily-temperatures) |
 | [0746-min-cost-climbing-stairs](https://github.com/IK10101/DSA-CPP/tree/master/0746-min-cost-climbing-stairs) |
 | [0827-making-a-large-island](https://github.com/IK10101/DSA-CPP/tree/master/0827-making-a-large-island) |
 | [0877-stone-game](https://github.com/IK10101/DSA-CPP/tree/master/0877-stone-game) |
@@ -674,4 +675,12 @@ This repository contains my Data Structures and Algorithms practice in C++.
 |  |
 | ------- |
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/IK10101/DSA-CPP/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
+## Stack
+|  |
+| ------- |
+| [0739-daily-temperatures](https://github.com/IK10101/DSA-CPP/tree/master/0739-daily-temperatures) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0739-daily-temperatures](https://github.com/IK10101/DSA-CPP/tree/master/0739-daily-temperatures) |
 <!---LeetCode Topics End-->
