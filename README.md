@@ -100,6 +100,7 @@ This repository contains my Data Structures and Algorithms practice in C++.
 | [1882-process-tasks-using-servers](https://github.com/IK10101/DSA-CPP/tree/master/1882-process-tasks-using-servers) |
 | [2059-minimum-operations-to-convert-number](https://github.com/IK10101/DSA-CPP/tree/master/2059-minimum-operations-to-convert-number) |
 | [2747-count-zero-request-servers](https://github.com/IK10101/DSA-CPP/tree/master/2747-count-zero-request-servers) |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/IK10101/DSA-CPP/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/IK10101/DSA-CPP/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3524-find-x-value-of-array-i](https://github.com/IK10101/DSA-CPP/tree/master/3524-find-x-value-of-array-i) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/IK10101/DSA-CPP/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
@@ -580,6 +581,7 @@ This repository contains my Data Structures and Algorithms practice in C++.
 | [0209-minimum-size-subarray-sum](https://github.com/IK10101/DSA-CPP/tree/master/0209-minimum-size-subarray-sum) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/IK10101/DSA-CPP/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [2747-count-zero-request-servers](https://github.com/IK10101/DSA-CPP/tree/master/2747-count-zero-request-servers) |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/IK10101/DSA-CPP/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/IK10101/DSA-CPP/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 ## Simulation
 |  |
@@ -621,6 +623,7 @@ This repository contains my Data Structures and Algorithms practice in C++.
 |  |
 | ------- |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/IK10101/DSA-CPP/tree/master/0673-number-of-longest-increasing-subsequence) |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/IK10101/DSA-CPP/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 ## Longest Common Subsequence
 |  |
 | ------- |
@@ -679,8 +682,18 @@ This repository contains my Data Structures and Algorithms practice in C++.
 |  |
 | ------- |
 | [0739-daily-temperatures](https://github.com/IK10101/DSA-CPP/tree/master/0739-daily-temperatures) |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/IK10101/DSA-CPP/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0739-daily-temperatures](https://github.com/IK10101/DSA-CPP/tree/master/0739-daily-temperatures) |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/IK10101/DSA-CPP/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
+## Queue
+|  |
+| ------- |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/IK10101/DSA-CPP/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
+## Monotonic Queue
+|  |
+| ------- |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/IK10101/DSA-CPP/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 <!---LeetCode Topics End-->
