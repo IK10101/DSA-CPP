@@ -101,6 +101,7 @@ This repository contains my Data Structures and Algorithms practice in C++.
 | [1882-process-tasks-using-servers](https://github.com/IK10101/DSA-CPP/tree/master/1882-process-tasks-using-servers) |
 | [2059-minimum-operations-to-convert-number](https://github.com/IK10101/DSA-CPP/tree/master/2059-minimum-operations-to-convert-number) |
 | [2747-count-zero-request-servers](https://github.com/IK10101/DSA-CPP/tree/master/2747-count-zero-request-servers) |
+| [3364-minimum-positive-sum-subarray](https://github.com/IK10101/DSA-CPP/tree/master/3364-minimum-positive-sum-subarray) |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/IK10101/DSA-CPP/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/IK10101/DSA-CPP/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3524-find-x-value-of-array-i](https://github.com/IK10101/DSA-CPP/tree/master/3524-find-x-value-of-array-i) |
@@ -199,6 +200,7 @@ This repository contains my Data Structures and Algorithms practice in C++.
 | [0209-minimum-size-subarray-sum](https://github.com/IK10101/DSA-CPP/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/IK10101/DSA-CPP/tree/master/0238-product-of-array-except-self) |
 | [0560-subarray-sum-equals-k](https://github.com/IK10101/DSA-CPP/tree/master/0560-subarray-sum-equals-k) |
+| [3364-minimum-positive-sum-subarray](https://github.com/IK10101/DSA-CPP/tree/master/3364-minimum-positive-sum-subarray) |
 ## Math
 |  |
 | ------- |
@@ -583,6 +585,7 @@ This repository contains my Data Structures and Algorithms practice in C++.
 | [0209-minimum-size-subarray-sum](https://github.com/IK10101/DSA-CPP/tree/master/0209-minimum-size-subarray-sum) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/IK10101/DSA-CPP/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [2747-count-zero-request-servers](https://github.com/IK10101/DSA-CPP/tree/master/2747-count-zero-request-servers) |
+| [3364-minimum-positive-sum-subarray](https://github.com/IK10101/DSA-CPP/tree/master/3364-minimum-positive-sum-subarray) |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/IK10101/DSA-CPP/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/IK10101/DSA-CPP/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 ## Simulation
