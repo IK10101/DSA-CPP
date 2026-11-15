@@ -93,6 +93,7 @@ This repository contains my Data Structures and Algorithms practice in C++.
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/IK10101/DSA-CPP/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1463-cherry-pickup-ii](https://github.com/IK10101/DSA-CPP/tree/master/1463-cherry-pickup-ii) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/IK10101/DSA-CPP/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/IK10101/DSA-CPP/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/IK10101/DSA-CPP/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [1584-min-cost-to-connect-all-points](https://github.com/IK10101/DSA-CPP/tree/master/1584-min-cost-to-connect-all-points) |
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/IK10101/DSA-CPP/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
@@ -200,6 +201,7 @@ This repository contains my Data Structures and Algorithms practice in C++.
 | [0209-minimum-size-subarray-sum](https://github.com/IK10101/DSA-CPP/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/IK10101/DSA-CPP/tree/master/0238-product-of-array-except-self) |
 | [0560-subarray-sum-equals-k](https://github.com/IK10101/DSA-CPP/tree/master/0560-subarray-sum-equals-k) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/IK10101/DSA-CPP/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [3364-minimum-positive-sum-subarray](https://github.com/IK10101/DSA-CPP/tree/master/3364-minimum-positive-sum-subarray) |
 ## Math
 |  |
@@ -219,6 +221,7 @@ This repository contains my Data Structures and Algorithms practice in C++.
 | [0836-rectangle-overlap](https://github.com/IK10101/DSA-CPP/tree/master/0836-rectangle-overlap) |
 | [0877-stone-game](https://github.com/IK10101/DSA-CPP/tree/master/0877-stone-game) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/IK10101/DSA-CPP/tree/master/1401-circle-and-rectangle-overlapping) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/IK10101/DSA-CPP/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/IK10101/DSA-CPP/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3524-find-x-value-of-array-i](https://github.com/IK10101/DSA-CPP/tree/master/3524-find-x-value-of-array-i) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/IK10101/DSA-CPP/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
@@ -278,6 +281,7 @@ This repository contains my Data Structures and Algorithms practice in C++.
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/IK10101/DSA-CPP/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1463-cherry-pickup-ii](https://github.com/IK10101/DSA-CPP/tree/master/1463-cherry-pickup-ii) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/IK10101/DSA-CPP/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/IK10101/DSA-CPP/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/IK10101/DSA-CPP/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/IK10101/DSA-CPP/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/IK10101/DSA-CPP/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
