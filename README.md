@@ -506,6 +506,7 @@ This repository contains my Data Structures and Algorithms practice in C++.
 | [1143-longest-common-subsequence](https://github.com/IK10101/DSA-CPP/tree/master/1143-longest-common-subsequence) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/IK10101/DSA-CPP/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/IK10101/DSA-CPP/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/IK10101/DSA-CPP/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [3498-reverse-degree-of-a-string](https://github.com/IK10101/DSA-CPP/tree/master/3498-reverse-degree-of-a-string) |
 ## Bidirectional Search
 |  |
@@ -600,6 +601,7 @@ This repository contains my Data Structures and Algorithms practice in C++.
 |  |
 | ------- |
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/IK10101/DSA-CPP/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/IK10101/DSA-CPP/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [3498-reverse-degree-of-a-string](https://github.com/IK10101/DSA-CPP/tree/master/3498-reverse-degree-of-a-string) |
 ## Knapsack Problem
 |  |
