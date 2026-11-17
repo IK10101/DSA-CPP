@@ -200,6 +200,7 @@ This repository contains my Data Structures and Algorithms practice in C++.
 | [0086-partition-list](https://github.com/IK10101/DSA-CPP/tree/master/0086-partition-list) |
 | [0189-rotate-array](https://github.com/IK10101/DSA-CPP/tree/master/0189-rotate-array) |
 | [0647-palindromic-substrings](https://github.com/IK10101/DSA-CPP/tree/master/0647-palindromic-substrings) |
+| [0763-partition-labels](https://github.com/IK10101/DSA-CPP/tree/master/0763-partition-labels) |
 | [1048-longest-string-chain](https://github.com/IK10101/DSA-CPP/tree/master/1048-longest-string-chain) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/IK10101/DSA-CPP/tree/master/1385-find-the-distance-value-between-two-arrays) |
 ## Prefix Sum
@@ -435,6 +436,7 @@ This repository contains my Data Structures and Algorithms practice in C++.
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/IK10101/DSA-CPP/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0646-maximum-length-of-pair-chain](https://github.com/IK10101/DSA-CPP/tree/master/0646-maximum-length-of-pair-chain) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/IK10101/DSA-CPP/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
+| [0763-partition-labels](https://github.com/IK10101/DSA-CPP/tree/master/0763-partition-labels) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/IK10101/DSA-CPP/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [3789-minimum-cost-to-acquire-required-items](https://github.com/IK10101/DSA-CPP/tree/master/3789-minimum-cost-to-acquire-required-items) |
 ## Hash Table
@@ -452,6 +454,7 @@ This repository contains my Data Structures and Algorithms practice in C++.
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/IK10101/DSA-CPP/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/IK10101/DSA-CPP/tree/master/0560-subarray-sum-equals-k) |
 | [0721-accounts-merge](https://github.com/IK10101/DSA-CPP/tree/master/0721-accounts-merge) |
+| [0763-partition-labels](https://github.com/IK10101/DSA-CPP/tree/master/0763-partition-labels) |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/IK10101/DSA-CPP/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [1027-longest-arithmetic-subsequence](https://github.com/IK10101/DSA-CPP/tree/master/1027-longest-arithmetic-subsequence) |
 | [1048-longest-string-chain](https://github.com/IK10101/DSA-CPP/tree/master/1048-longest-string-chain) |
@@ -506,6 +509,7 @@ This repository contains my Data Structures and Algorithms practice in C++.
 | [0516-longest-palindromic-subsequence](https://github.com/IK10101/DSA-CPP/tree/master/0516-longest-palindromic-subsequence) |
 | [0647-palindromic-substrings](https://github.com/IK10101/DSA-CPP/tree/master/0647-palindromic-substrings) |
 | [0721-accounts-merge](https://github.com/IK10101/DSA-CPP/tree/master/0721-accounts-merge) |
+| [0763-partition-labels](https://github.com/IK10101/DSA-CPP/tree/master/0763-partition-labels) |
 | [0990-satisfiability-of-equality-equations](https://github.com/IK10101/DSA-CPP/tree/master/0990-satisfiability-of-equality-equations) |
 | [1048-longest-string-chain](https://github.com/IK10101/DSA-CPP/tree/master/1048-longest-string-chain) |
 | [1092-shortest-common-supersequence](https://github.com/IK10101/DSA-CPP/tree/master/1092-shortest-common-supersequence) |
