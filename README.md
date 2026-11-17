@@ -61,6 +61,7 @@ This repository contains my Data Structures and Algorithms practice in C++.
 | [0313-super-ugly-number](https://github.com/IK10101/DSA-CPP/tree/master/0313-super-ugly-number) |
 | [0322-coin-change](https://github.com/IK10101/DSA-CPP/tree/master/0322-coin-change) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/IK10101/DSA-CPP/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [0347-top-k-frequent-elements](https://github.com/IK10101/DSA-CPP/tree/master/0347-top-k-frequent-elements) |
 | [0368-largest-divisible-subset](https://github.com/IK10101/DSA-CPP/tree/master/0368-largest-divisible-subset) |
 | [0416-partition-equal-subset-sum](https://github.com/IK10101/DSA-CPP/tree/master/0416-partition-equal-subset-sum) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/IK10101/DSA-CPP/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
@@ -117,11 +118,13 @@ This repository contains my Data Structures and Algorithms practice in C++.
 | [0023-merge-k-sorted-lists](https://github.com/IK10101/DSA-CPP/tree/master/0023-merge-k-sorted-lists) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/IK10101/DSA-CPP/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0215-kth-largest-element-in-an-array](https://github.com/IK10101/DSA-CPP/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/IK10101/DSA-CPP/tree/master/0347-top-k-frequent-elements) |
 ## Sorting
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/IK10101/DSA-CPP/tree/master/0049-group-anagrams) |
 | [0215-kth-largest-element-in-an-array](https://github.com/IK10101/DSA-CPP/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/IK10101/DSA-CPP/tree/master/0347-top-k-frequent-elements) |
 | [0368-largest-divisible-subset](https://github.com/IK10101/DSA-CPP/tree/master/0368-largest-divisible-subset) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/IK10101/DSA-CPP/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0646-maximum-length-of-pair-chain](https://github.com/IK10101/DSA-CPP/tree/master/0646-maximum-length-of-pair-chain) |
@@ -137,6 +140,7 @@ This repository contains my Data Structures and Algorithms practice in C++.
 | [0023-merge-k-sorted-lists](https://github.com/IK10101/DSA-CPP/tree/master/0023-merge-k-sorted-lists) |
 | [0215-kth-largest-element-in-an-array](https://github.com/IK10101/DSA-CPP/tree/master/0215-kth-largest-element-in-an-array) |
 | [0264-ugly-number-ii](https://github.com/IK10101/DSA-CPP/tree/master/0264-ugly-number-ii) |
+| [0347-top-k-frequent-elements](https://github.com/IK10101/DSA-CPP/tree/master/0347-top-k-frequent-elements) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/IK10101/DSA-CPP/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0743-network-delay-time](https://github.com/IK10101/DSA-CPP/tree/master/0743-network-delay-time) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/IK10101/DSA-CPP/tree/master/0787-cheapest-flights-within-k-stops) |
@@ -148,6 +152,7 @@ This repository contains my Data Structures and Algorithms practice in C++.
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/IK10101/DSA-CPP/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/IK10101/DSA-CPP/tree/master/0347-top-k-frequent-elements) |
 ## Tree
 |  |
 | ------- |
@@ -443,6 +448,7 @@ This repository contains my Data Structures and Algorithms practice in C++.
 | [0139-word-break](https://github.com/IK10101/DSA-CPP/tree/master/0139-word-break) |
 | [0208-implement-trie-prefix-tree](https://github.com/IK10101/DSA-CPP/tree/master/0208-implement-trie-prefix-tree) |
 | [0264-ugly-number-ii](https://github.com/IK10101/DSA-CPP/tree/master/0264-ugly-number-ii) |
+| [0347-top-k-frequent-elements](https://github.com/IK10101/DSA-CPP/tree/master/0347-top-k-frequent-elements) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/IK10101/DSA-CPP/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/IK10101/DSA-CPP/tree/master/0560-subarray-sum-equals-k) |
 | [0721-accounts-merge](https://github.com/IK10101/DSA-CPP/tree/master/0721-accounts-merge) |
@@ -688,6 +694,7 @@ This repository contains my Data Structures and Algorithms practice in C++.
 ## Counting
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/IK10101/DSA-CPP/tree/master/0347-top-k-frequent-elements) |
 | [1267-count-servers-that-communicate](https://github.com/IK10101/DSA-CPP/tree/master/1267-count-servers-that-communicate) |
 ## Ordered Set
 |  |
@@ -711,4 +718,8 @@ This repository contains my Data Structures and Algorithms practice in C++.
 |  |
 | ------- |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/IK10101/DSA-CPP/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/IK10101/DSA-CPP/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
