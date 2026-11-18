@@ -522,6 +522,7 @@ This repository contains my Data Structures and Algorithms practice in C++.
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/IK10101/DSA-CPP/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/IK10101/DSA-CPP/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/IK10101/DSA-CPP/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
+| [2914-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/IK10101/DSA-CPP/tree/master/2914-minimum-number-of-changes-to-make-binary-string-beautiful) |
 | [3498-reverse-degree-of-a-string](https://github.com/IK10101/DSA-CPP/tree/master/3498-reverse-degree-of-a-string) |
 ## Bidirectional Search
 |  |
