@@ -78,6 +78,7 @@ This repository contains my Data Structures and Algorithms practice in C++.
 | [0721-accounts-merge](https://github.com/IK10101/DSA-CPP/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/IK10101/DSA-CPP/tree/master/0733-flood-fill) |
 | [0739-daily-temperatures](https://github.com/IK10101/DSA-CPP/tree/master/0739-daily-temperatures) |
+| [0740-delete-and-earn](https://github.com/IK10101/DSA-CPP/tree/master/0740-delete-and-earn) |
 | [0746-min-cost-climbing-stairs](https://github.com/IK10101/DSA-CPP/tree/master/0746-min-cost-climbing-stairs) |
 | [0827-making-a-large-island](https://github.com/IK10101/DSA-CPP/tree/master/0827-making-a-large-island) |
 | [0853-car-fleet](https://github.com/IK10101/DSA-CPP/tree/master/0853-car-fleet) |
@@ -278,6 +279,7 @@ This repository contains my Data Structures and Algorithms practice in C++.
 | [0647-palindromic-substrings](https://github.com/IK10101/DSA-CPP/tree/master/0647-palindromic-substrings) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/IK10101/DSA-CPP/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/IK10101/DSA-CPP/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
+| [0740-delete-and-earn](https://github.com/IK10101/DSA-CPP/tree/master/0740-delete-and-earn) |
 | [0746-min-cost-climbing-stairs](https://github.com/IK10101/DSA-CPP/tree/master/0746-min-cost-climbing-stairs) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/IK10101/DSA-CPP/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0877-stone-game](https://github.com/IK10101/DSA-CPP/tree/master/0877-stone-game) |
@@ -458,6 +460,7 @@ This repository contains my Data Structures and Algorithms practice in C++.
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/IK10101/DSA-CPP/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/IK10101/DSA-CPP/tree/master/0560-subarray-sum-equals-k) |
 | [0721-accounts-merge](https://github.com/IK10101/DSA-CPP/tree/master/0721-accounts-merge) |
+| [0740-delete-and-earn](https://github.com/IK10101/DSA-CPP/tree/master/0740-delete-and-earn) |
 | [0763-partition-labels](https://github.com/IK10101/DSA-CPP/tree/master/0763-partition-labels) |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/IK10101/DSA-CPP/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [1027-longest-arithmetic-subsequence](https://github.com/IK10101/DSA-CPP/tree/master/1027-longest-arithmetic-subsequence) |
