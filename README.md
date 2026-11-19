@@ -107,6 +107,7 @@ This repository contains my Data Structures and Algorithms practice in C++.
 | [2059-minimum-operations-to-convert-number](https://github.com/IK10101/DSA-CPP/tree/master/2059-minimum-operations-to-convert-number) |
 | [2567-minimum-score-by-changing-two-elements](https://github.com/IK10101/DSA-CPP/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [2747-count-zero-request-servers](https://github.com/IK10101/DSA-CPP/tree/master/2747-count-zero-request-servers) |
+| [3180-maximum-total-reward-using-operations-i](https://github.com/IK10101/DSA-CPP/tree/master/3180-maximum-total-reward-using-operations-i) |
 | [3364-minimum-positive-sum-subarray](https://github.com/IK10101/DSA-CPP/tree/master/3364-minimum-positive-sum-subarray) |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/IK10101/DSA-CPP/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/IK10101/DSA-CPP/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
@@ -139,6 +140,7 @@ This repository contains my Data Structures and Algorithms practice in C++.
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/IK10101/DSA-CPP/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [2567-minimum-score-by-changing-two-elements](https://github.com/IK10101/DSA-CPP/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [2747-count-zero-request-servers](https://github.com/IK10101/DSA-CPP/tree/master/2747-count-zero-request-servers) |
+| [3180-maximum-total-reward-using-operations-i](https://github.com/IK10101/DSA-CPP/tree/master/3180-maximum-total-reward-using-operations-i) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -301,6 +303,7 @@ This repository contains my Data Structures and Algorithms practice in C++.
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/IK10101/DSA-CPP/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/IK10101/DSA-CPP/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 | [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/IK10101/DSA-CPP/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
+| [3180-maximum-total-reward-using-operations-i](https://github.com/IK10101/DSA-CPP/tree/master/3180-maximum-total-reward-using-operations-i) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/IK10101/DSA-CPP/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3524-find-x-value-of-array-i](https://github.com/IK10101/DSA-CPP/tree/master/3524-find-x-value-of-array-i) |
 | [3665-twisted-mirror-path-count](https://github.com/IK10101/DSA-CPP/tree/master/3665-twisted-mirror-path-count) |
@@ -687,6 +690,7 @@ This repository contains my Data Structures and Algorithms practice in C++.
 | ------- |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/IK10101/DSA-CPP/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [1707-maximum-xor-with-an-element-from-array](https://github.com/IK10101/DSA-CPP/tree/master/1707-maximum-xor-with-an-element-from-array) |
+| [3180-maximum-total-reward-using-operations-i](https://github.com/IK10101/DSA-CPP/tree/master/3180-maximum-total-reward-using-operations-i) |
 ## Enumeration
 |  |
 | ------- |
