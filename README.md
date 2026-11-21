@@ -109,6 +109,7 @@ This repository contains my Data Structures and Algorithms practice in C++.
 | [2567-minimum-score-by-changing-two-elements](https://github.com/IK10101/DSA-CPP/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [2747-count-zero-request-servers](https://github.com/IK10101/DSA-CPP/tree/master/2747-count-zero-request-servers) |
 | [3180-maximum-total-reward-using-operations-i](https://github.com/IK10101/DSA-CPP/tree/master/3180-maximum-total-reward-using-operations-i) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/IK10101/DSA-CPP/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3364-minimum-positive-sum-subarray](https://github.com/IK10101/DSA-CPP/tree/master/3364-minimum-positive-sum-subarray) |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/IK10101/DSA-CPP/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/IK10101/DSA-CPP/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
@@ -167,6 +168,7 @@ This repository contains my Data Structures and Algorithms practice in C++.
 | [0096-unique-binary-search-trees](https://github.com/IK10101/DSA-CPP/tree/master/0096-unique-binary-search-trees) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/IK10101/DSA-CPP/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/IK10101/DSA-CPP/tree/master/0703-kth-largest-element-in-a-stream) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/IK10101/DSA-CPP/tree/master/3331-find-subtree-sizes-after-changes) |
 ## Design
 |  |
 | ------- |
@@ -352,6 +354,7 @@ This repository contains my Data Structures and Algorithms practice in C++.
 | [1267-count-servers-that-communicate](https://github.com/IK10101/DSA-CPP/tree/master/1267-count-servers-that-communicate) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/IK10101/DSA-CPP/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1631-path-with-minimum-effort](https://github.com/IK10101/DSA-CPP/tree/master/1631-path-with-minimum-effort) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/IK10101/DSA-CPP/tree/master/3331-find-subtree-sizes-after-changes) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -478,6 +481,7 @@ This repository contains my Data Structures and Algorithms practice in C++.
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/IK10101/DSA-CPP/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/IK10101/DSA-CPP/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2747-count-zero-request-servers](https://github.com/IK10101/DSA-CPP/tree/master/2747-count-zero-request-servers) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/IK10101/DSA-CPP/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/IK10101/DSA-CPP/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 ## Graph Coloring
 |  |
@@ -536,6 +540,7 @@ This repository contains my Data Structures and Algorithms practice in C++.
 | [2243-calculate-digit-sum-of-a-string](https://github.com/IK10101/DSA-CPP/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/IK10101/DSA-CPP/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
 | [2914-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/IK10101/DSA-CPP/tree/master/2914-minimum-number-of-changes-to-make-binary-string-beautiful) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/IK10101/DSA-CPP/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3498-reverse-degree-of-a-string](https://github.com/IK10101/DSA-CPP/tree/master/3498-reverse-degree-of-a-string) |
 ## Bidirectional Search
 |  |
