@@ -112,6 +112,7 @@ This repository contains my Data Structures and Algorithms practice in C++.
 | [3180-maximum-total-reward-using-operations-i](https://github.com/IK10101/DSA-CPP/tree/master/3180-maximum-total-reward-using-operations-i) |
 | [3331-find-subtree-sizes-after-changes](https://github.com/IK10101/DSA-CPP/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3364-minimum-positive-sum-subarray](https://github.com/IK10101/DSA-CPP/tree/master/3364-minimum-positive-sum-subarray) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/IK10101/DSA-CPP/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/IK10101/DSA-CPP/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/IK10101/DSA-CPP/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3524-find-x-value-of-array-i](https://github.com/IK10101/DSA-CPP/tree/master/3524-find-x-value-of-array-i) |
@@ -248,6 +249,7 @@ This repository contains my Data Structures and Algorithms practice in C++.
 | [1352-product-of-the-last-k-numbers](https://github.com/IK10101/DSA-CPP/tree/master/1352-product-of-the-last-k-numbers) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/IK10101/DSA-CPP/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/IK10101/DSA-CPP/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/IK10101/DSA-CPP/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/IK10101/DSA-CPP/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3524-find-x-value-of-array-i](https://github.com/IK10101/DSA-CPP/tree/master/3524-find-x-value-of-array-i) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/IK10101/DSA-CPP/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
@@ -636,6 +638,7 @@ This repository contains my Data Structures and Algorithms practice in C++.
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/IK10101/DSA-CPP/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2747-count-zero-request-servers](https://github.com/IK10101/DSA-CPP/tree/master/2747-count-zero-request-servers) |
 | [3364-minimum-positive-sum-subarray](https://github.com/IK10101/DSA-CPP/tree/master/3364-minimum-positive-sum-subarray) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/IK10101/DSA-CPP/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/IK10101/DSA-CPP/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/IK10101/DSA-CPP/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 ## Simulation
@@ -711,10 +714,12 @@ This repository contains my Data Structures and Algorithms practice in C++.
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/IK10101/DSA-CPP/tree/master/0204-count-primes) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/IK10101/DSA-CPP/tree/master/3411-maximum-subarray-with-equal-products) |
 ## Number Theory
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/IK10101/DSA-CPP/tree/master/0204-count-primes) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/IK10101/DSA-CPP/tree/master/3411-maximum-subarray-with-equal-products) |
 ## Primality Test
 |  |
 | ------- |
