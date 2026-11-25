@@ -33,17 +33,17 @@ public:
             return false;
         };
 
-        int lo = 1, hi = n;
-        while (lo < hi) {
-            int mid = lo + (hi - lo) / 2;
+        int low = 1, high = n;
+        while (low < high) {
+            int mid = low + (high - low) / 2;
 
             if (check(mid)) {
-                hi = mid;
+                high = mid;
             } else {
-                lo = mid + 1;
+                low = mid + 1;
             }
         }
 
-        return lo;
+        return low;
     }
 };
