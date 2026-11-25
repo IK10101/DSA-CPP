@@ -120,6 +120,7 @@ This repository contains my Data Structures and Algorithms practice in C++.
 | [3665-twisted-mirror-path-count](https://github.com/IK10101/DSA-CPP/tree/master/3665-twisted-mirror-path-count) |
 | [3693-climbing-stairs-ii](https://github.com/IK10101/DSA-CPP/tree/master/3693-climbing-stairs-ii) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/IK10101/DSA-CPP/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
+| [3934-smallest-unique-subarray](https://github.com/IK10101/DSA-CPP/tree/master/3934-smallest-unique-subarray) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -191,6 +192,7 @@ This repository contains my Data Structures and Algorithms practice in C++.
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/IK10101/DSA-CPP/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1631-path-with-minimum-effort](https://github.com/IK10101/DSA-CPP/tree/master/1631-path-with-minimum-effort) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/IK10101/DSA-CPP/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [3934-smallest-unique-subarray](https://github.com/IK10101/DSA-CPP/tree/master/3934-smallest-unique-subarray) |
 ## Binary Tree
 |  |
 | ------- |
@@ -490,6 +492,7 @@ This repository contains my Data Structures and Algorithms practice in C++.
 | [2747-count-zero-request-servers](https://github.com/IK10101/DSA-CPP/tree/master/2747-count-zero-request-servers) |
 | [3331-find-subtree-sizes-after-changes](https://github.com/IK10101/DSA-CPP/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/IK10101/DSA-CPP/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
+| [3934-smallest-unique-subarray](https://github.com/IK10101/DSA-CPP/tree/master/3934-smallest-unique-subarray) |
 ## Graph Coloring
 |  |
 | ------- |
@@ -765,4 +768,16 @@ This repository contains my Data Structures and Algorithms practice in C++.
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/IK10101/DSA-CPP/tree/master/0347-top-k-frequent-elements) |
+## Rolling Hash
+|  |
+| ------- |
+| [3934-smallest-unique-subarray](https://github.com/IK10101/DSA-CPP/tree/master/3934-smallest-unique-subarray) |
+## Suffix Array
+|  |
+| ------- |
+| [3934-smallest-unique-subarray](https://github.com/IK10101/DSA-CPP/tree/master/3934-smallest-unique-subarray) |
+## Hash Function
+|  |
+| ------- |
+| [3934-smallest-unique-subarray](https://github.com/IK10101/DSA-CPP/tree/master/3934-smallest-unique-subarray) |
 <!---LeetCode Topics End-->
