@@ -251,6 +251,7 @@ This repository contains my Data Structures and Algorithms practice in C++.
 | [1352-product-of-the-last-k-numbers](https://github.com/IK10101/DSA-CPP/tree/master/1352-product-of-the-last-k-numbers) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/IK10101/DSA-CPP/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/IK10101/DSA-CPP/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
+| [3360-stone-removal-game](https://github.com/IK10101/DSA-CPP/tree/master/3360-stone-removal-game) |
 | [3411-maximum-subarray-with-equal-products](https://github.com/IK10101/DSA-CPP/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/IK10101/DSA-CPP/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3524-find-x-value-of-array-i](https://github.com/IK10101/DSA-CPP/tree/master/3524-find-x-value-of-array-i) |
@@ -649,6 +650,7 @@ This repository contains my Data Structures and Algorithms practice in C++.
 | ------- |
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/IK10101/DSA-CPP/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/IK10101/DSA-CPP/tree/master/2243-calculate-digit-sum-of-a-string) |
+| [3360-stone-removal-game](https://github.com/IK10101/DSA-CPP/tree/master/3360-stone-removal-game) |
 | [3498-reverse-degree-of-a-string](https://github.com/IK10101/DSA-CPP/tree/master/3498-reverse-degree-of-a-string) |
 ## Knapsack Problem
 |  |
